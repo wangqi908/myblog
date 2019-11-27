@@ -99,7 +99,7 @@ menu:
   archives: /archives/ || archive
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
-  #commonweal: /404/ || heartbeat
+  commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -107,7 +107,7 @@ menu_icons:
 
 
 # ---------------------------------------------------------------
-# Scheme Settings
+# Scheme Settings 主题设置
 # ---------------------------------------------------------------
 
 # Schemes
