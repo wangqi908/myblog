@@ -103,3 +103,11 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Algolia Search API Key
+algolia:
+  applicationID: 'LTHF70HTLE'
+  apiKey: '4c0515243cea167db98270c71e6cd8dd'
+  adminApiKey: '06cff8a6bfb4bf824463a75d5ff5d642'
+  indexName: 'nek0ri.de'
+  chunkSize: 5000
