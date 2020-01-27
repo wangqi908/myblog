@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 猫梨的聲呐研製所
+title: 猫梨の聲呐研製所
 subtitle: ''
 description: 'Keep Going'
 keywords:
@@ -95,7 +95,7 @@ ignore:
 plugins:
     hexo-generator-feed
 ## Themes: https://hexo.io/themes/
-theme: icarus
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
