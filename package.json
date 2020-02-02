@@ -24,6 +24,9 @@
     "hexo-renderer-less": "^1.0.0",
     "hexo-renderer-marked": "^2.0.0",
     "hexo-renderer-stylus": "^1.1.0",
-    "hexo-server": "^1.0.0"
+    "hexo-server": "^1.0.0",
+    "node-prismjs": "^0.1.2",
+    "prismjs": "^1.19.0",
+    "qr-image": "^3.2.0"
   }
 }
