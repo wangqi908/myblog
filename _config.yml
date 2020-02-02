@@ -95,7 +95,7 @@ ignore:
 plugins:
     hexo-generator-feed
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: suka
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -121,3 +121,12 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+suka_theme:
+  search:
+    enable: true
+    path: search.json
+    field: post # Page | Post | All. Default post
+  prism:
+    enable: false
+    line_number: true
+    theme: default
