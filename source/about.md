@@ -5,10 +5,10 @@ thumbnail: /images/about.jpg
 layout: about
 ---
 #nek0ri
-######猫梨
---
-###*关于我*
-&emsp;&emsp;普通的大学生一枚。
+___
+##关于我
+
+&emsp;&emsp;我是猫梨，普通的大学生一枚。
 
 &emsp;&emsp;曾经是NOI、VEX、CTF等多个比赛的选手；
 
@@ -18,9 +18,9 @@ layout: about
 
 <br/>
 
-&emsp;&emsp;***教育经历：***
+***教育经历：***
 
-&emsp;&emsp;&emsp;&emsp;**XiangMing** High Sch. => **T**aiyuan **U**niversity of **T**echnology (Automation) => **Tongji** University (Deutsch)
+&emsp;&emsp;**XiangMing** High Sch. => **T**aiyuan **U**niversity of **T**echnology => **Tongji** University
   
 <br/>
 
