@@ -20,7 +20,11 @@ layout: about
 
 ***教育经历***
 
-&emsp;&emsp;**XiangMing** High Sch. => **T**aiyuan **U**niversity of **T**echnology => **Tongji** University
+&emsp;&emsp;**XiangMing** High Sch. 
+
+&emsp;&emsp;=> **T**aiyuan **U**niversity of **T**echnology
+
+&emsp;&emsp;&emsp;&emsp;=> **Tongji** University
   
 <br/>
 
