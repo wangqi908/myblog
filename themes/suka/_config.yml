@@ -95,15 +95,15 @@ nav:
   rss:
     use: true
   share:
-    use: true
+    use: false
   search:
     use: false
     link: /search
   pages:
-    #About:
-      #link: /about/
-    #Friends:
-      #link: /links/
+    About:
+      link: /about/
+    Friends:
+      link: /links/
 
 # SNS Share Switch
 # Used to choose which items will be displayed in share menu.
