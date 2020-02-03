@@ -99,6 +99,9 @@ nav:
   search:
     use: true
     link: /search
+  tags:
+    use: true
+    link: /tags
   pages:
     关于:
       link: /about/
