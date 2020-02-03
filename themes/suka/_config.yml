@@ -105,7 +105,7 @@ nav:
     #Friends:
       #link: /links/
     关于:
-      link: /about/
+      link: /about/me.md
     友链:
       link: /links/
 
