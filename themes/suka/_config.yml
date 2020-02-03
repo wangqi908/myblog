@@ -95,9 +95,9 @@ nav:
   rss:
     use: true
   share:
-    use: true
+    use: false
   search:
-    use: true
+    use: false
     link: /search
   pages:
     About:
@@ -131,7 +131,7 @@ post:
   # Notify on expire of the page
   # To let the visitor know if the post hasn't been update for long.
   expire: true
-  share: false
+  share: true
   # Post License
   # You can specify the text you want to show in the end of your posts and pages, HTML tag is supported.
   #   For example, you can setup a CC license as:
