@@ -6,7 +6,7 @@ layout: about
 ---
 # nek0ri
 
-***关于我***
+### 关于我
 
 &emsp;&emsp;我是猫梨，普通的大学生一枚。
 
@@ -18,7 +18,7 @@ layout: about
 
 <br/>
 
-***教育经历***
+### 教育经历
 
 &emsp;&emsp;**XiangMing** High Sch. 
 
