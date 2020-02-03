@@ -97,7 +97,7 @@ nav:
   share:
     use: false
   search:
-    use: false
+    use: true
     link: /search
   pages:
     关于:

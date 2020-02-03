@@ -103,10 +103,10 @@ deploy:
   type: ''
 
 # Local Search
-search:
-  path: search.xml
-  field: post
-  content: true
+#search:
+#  path: search.xml
+#  field: post
+#  content: true
 
 # RSS
 feed:
