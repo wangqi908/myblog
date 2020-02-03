@@ -10,7 +10,7 @@ layout: about
 
 &emsp;&emsp;我是猫梨，普通的大学生一枚。
 
-&emsp;&emsp;曾经是NOI、VEX、CTF等多个比赛的选手；
+&emsp;&emsp;曾是NOI、VEX、CTF等比赛的选手；
 
 &emsp;&emsp;自行车、音乐、HiFi、动漫等爱好者；
 
