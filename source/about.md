@@ -4,4 +4,30 @@ date:
 thumbnail: /images/about.jpg
 layout: about
 ---
-hi
+#nek0ri
+######猫梨
+--
+###*关于我*
+&emsp;&emsp;普通的大学生一枚。
+
+&emsp;&emsp;曾经是NOI、VEX、CTF等多个比赛的选手；
+
+&emsp;&emsp;自行车、音乐、HiFi、动漫等爱好者；
+
+&emsp;&emsp;立志步入HPC与Acoustic专业。
+
+<br/>
+
+&emsp;&emsp;***教育经历：***
+
+&emsp;&emsp;&emsp;&emsp;**XiangMing** High Sch. => **T**aiyuan **U**niversity of **T**echnology (Automation) => **Tongji** University (Deutsch)
+  
+<br/>
+
+>社交平台
+>
+>[知乎](https://www.zhihu.com/people/mattlee) [微博](https://weibo.com/6605314462/profile?topnav=1&wvr=6) [GitHub](https://github.com/nek0ri)
+>
+>联系方式
+>
+>[nek0ri@outlook.com](nek0ri@outlook.com)
