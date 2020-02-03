@@ -18,7 +18,7 @@ layout: about
 
 <br/>
 
-### 教育经历
+***教育经历***
 
 &emsp;&emsp;**XiangMing** High Sch. 
 
@@ -28,10 +28,11 @@ layout: about
   
 <br/>
 
+### 联系方式
 
 > 社交平台：[知乎](https://www.zhihu.com/people/mattlee) [微博](https://weibo.com/6605314462/profile?topnav=1&wvr=6) [GitHub](https://github.com/nek0ri)
 >
-> 联系方式：[nek0ri@outlook.com](nek0ri@outlook.com)
+> 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
 > 
 > 您可通过在本页面下方的Disqus评论区留言，
 >
