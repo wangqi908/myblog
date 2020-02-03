@@ -93,11 +93,11 @@ nav:
   archives:
     use: true
   rss:
-    use: false
+    use: true
   share:
     use: true
   search:
-    use: true
+    use: false
     link: /search
   pages:
     #About:

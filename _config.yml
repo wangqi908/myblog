@@ -121,6 +121,7 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
 suka_theme:
   search:
     enable: true
