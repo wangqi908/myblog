@@ -100,13 +100,9 @@ nav:
     use: false
     link: /search
   pages:
-    #About:
-      #link: /about/
-    #Friends:
-      #link: /links/
-    关于:
-      link: /about/me.md
-    友链:
+    About:
+      link: /about/
+    Friends:
       link: /links/
 
 # SNS Share Switch
