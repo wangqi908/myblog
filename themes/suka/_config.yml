@@ -18,17 +18,17 @@ head:
   #   To get or check favicons visit: https://realfavicongenerator.net
   favicon:
     # You should use a image/x-icon type icon and configure it here.
-    ico: /img/suka-favicon.ico
+    ico: 
     # 16x16 png
-    small:
+    small: /img/small_f.png
     # 32x32 png
-    medium: # /img/suka-favicon.png
+    medium: /img/medium_f.png
     # 180x180 png
-    apple_touch_icon:
+    apple_touch_icon: /img/apple_touch_icon_f.png
     # 192x192 png
-    large:
+    large: /img/large_f.png
     # svg icon
-    safari_pinned_tab:
+    safari_pinned_tab: /img/safari_pinned_tab_f.png
   # Color
   #   It will defined color below:
   #     Android Chrome Color
@@ -80,7 +80,7 @@ uiux:
   bg_color:
 
 img:
-  avatar: '/img/default_avatar.png'
+  avatar: '/img/shirakami.jpg'
 
 # ---------------------------------------------------------------
 # Menu Settings
