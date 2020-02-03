@@ -3,8 +3,6 @@ title: '#耳机#扯扯音特美ER2XR'
 date: 2019-11-21 21:00:00
 tags: 
  - 耳机
-  -  音特美
-  -  HiFi
 categories:
  - 知乎专栏
 thumbnail: /images/zh_2xr/1.jpg
