@@ -1,6 +1,5 @@
 ---
-title: links
+title: 友链
 date:
 layout: links
 ---
-test

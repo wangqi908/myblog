@@ -18,17 +18,17 @@ head:
   #   To get or check favicons visit: https://realfavicongenerator.net
   favicon:
     # You should use a image/x-icon type icon and configure it here.
-    ico: 
+    ico: /img/favicon.ico
     # 16x16 png
-    small: /img/small_f.png
+    small: /img/favicon-16x16.png
     # 32x32 png
-    medium: /img/medium_f.png
+    medium: /img/favicon-32x32.png
     # 180x180 png
-    apple_touch_icon: /img/apple_touch_icon_f.png
+    apple_touch_icon: /img/apple_touch_icon.png
     # 192x192 png
-    large: /img/large_f.png
+    large: /img/android-chrome-192x192.png
     # svg icon
-    safari_pinned_tab: /img/safari_pinned_tab_f.png
+    safari_pinned_tab: /img/safari-pinned-tab.svg
   # Color
   #   It will defined color below:
   #     Android Chrome Color
@@ -95,9 +95,9 @@ nav:
   rss:
     use: true
   share:
-    use: false
+    use: true
   search:
-    use: false
+    use: true
     link: /search
   pages:
     About:
@@ -108,13 +108,13 @@ nav:
 # SNS Share Switch
 # Used to choose which items will be displayed in share menu.
 sns_share:
-  weibo: false
+  weibo: true
   facebook: false
-  twitter: false
+  twitter: true
   telegram: false
   googleplus: false
-  linkedin: false
-  qq: false
+  linkedin: true
+  qq: true
 
 # Qrcode which will show in share menu, for redirect to other device
 qrcode:
