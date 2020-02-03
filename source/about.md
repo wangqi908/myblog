@@ -6,6 +6,8 @@ layout: about
 ---
 # nek0ri
 
+	很高兴你会打开这一页面ฅ'ω'ฅ
+
 ### 关于我
 
 &emsp;&emsp;我是猫梨，普通的大学生一枚。
@@ -25,6 +27,28 @@ layout: about
 &emsp;&emsp;=> **T**aiyuan **U**niversity of **T**echnology
 
 &emsp;&emsp;&emsp;&emsp;=> **Tongji** University
+  
+<br/>
+
+### 关于本站
+
+&emsp;&emsp;本站创建于2015年。
+
+&emsp;&emsp;其实也没有什么特别好介绍的啦，
+
+&emsp;&emsp;这里除科普文之外，就是记录平时的点点滴滴。
+
+<br/>
+
+&emsp;&emsp;在创建后的第4年，本站告别了WordPress，
+
+&emsp;&emsp;而转战Netlify与Hexo。
+
+<br/>
+
+***域名历史***
+
+&emsp;&emsp;nekori.info => nek0ri.com => **nek0ri.de**
   
 <br/>
 
