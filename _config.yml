@@ -9,6 +9,7 @@ description: 'neko neko ri～'
 keywords:
 author: nek0ri
 language: zh-CN
+#suka use language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +97,8 @@ ignore:
 plugins:
     hexo-generator-feed
 ## Themes: https://hexo.io/themes/
-theme: suka
+theme: icarus
+# suka is good
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
