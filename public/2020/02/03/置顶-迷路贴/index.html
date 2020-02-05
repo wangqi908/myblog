@@ -244,19 +244,20 @@
         <h3 class="title is-5 has-text-weight-normal">评论</h3>
         
 <div id="comment-container"></div>
-<link rel="stylesheet" href="https://jjeejj.github.io/css/gitment.css">
-<script src="https://jjeejj.github.io/js/gitment.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.4.1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1.4.1/dist/gitalk.min.js"></script>
 <script>
-	var gitment = new Gitment({
-		id: 'bbd0c6598a83a074ec1e807ac4202036',
-		owner: 'nek0ri',
-		repo: 'myblog',
-		oauth: {
-			client_id: 'e8e7a4a27c76fe7d857d',
-			client_secret: '5e06368a3059bc6d5b5644d520b03dd4701a20a5',
-		},
-	})
-	gitment.render('comment-container')
+    var gitalk = new Gitalk({
+        clientID: 'bd02ab4e97ac7cc4b483',
+        clientSecret: '5c9231aa3d2bb7d932bf8385f372b847f748eceb',
+        id: 'bbd0c6598a83a074ec1e807ac4202036',
+        repo: 'myblog',
+        owner: 'nek0ri',
+        admin: "nek0ri",
+        createIssueManually: false,
+        distractionFreeMode: false
+    })
+    gitalk.render('comment-container')
 </script>
 
     </div>

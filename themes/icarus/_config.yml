@@ -78,6 +78,7 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
+    type: gitalk
     owner: nek0ri         # (required) GitHub user name
     repo: myblog          # (required) GitHub repository name
     client_id: bd02ab4e97ac7cc4b483     # (required) OAuth application client id
