@@ -78,37 +78,41 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: 
+    type: gitment
+    owner: nek0ri         # (required) GitHub user name
+    repo: myblog          # (required) GitHub repository name
+    client_id: e8e7a4a27c76fe7d857d    # (required) OAuth application client id
+    client_secret: 5e06368a3059bc6d5b5644d520b03dd4701a20a5 # (required) OAuth application client secret
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
-donate:
-    -
+#donate:
+    #-
         # Donation entry name
-        type: alipay
+        #type: alipay
         # Qrcode image URL
-        qrcode: ''
-    -
+        #qrcode: ''
+    #-
         # Donation entry name
-        type: wechat
+        #type: wechat
         # Qrcode image URL
-        qrcode: ''
-    -
+        #qrcode: ''
+    #-
         # Donation entry name
-        type: paypal
+        #type: paypal
         # Paypal business ID or email address
-        business: ''
+        #business: ''
         # Currency code
-        currency_code: USD
-    -
+        #currency_code: USD
+    #-
         # Donation entry name
-        type: patreon
+        #type: patreon
         # URL to the Patreon page
-        url: ''
+        #url: ''
 # Share plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share
 share:
     # Share plugin name
-    type: 
+    type: sharejs
 # Sidebar settings.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -172,15 +176,15 @@ widgets:
         type: toc
         # Where should the widget be placed, left or right
         position: left
-    -
+    #-
         # Widget name
-        type: links
+        #type: links
         # Where should the widget be placed, left or right
-        position: left
+        #position: left
         # Links to be shown in the links widget
-        links:
-            Hexo: 'https://hexo.io'
-            PPOffice: 'https://github.com/ppoffice'
+        #links:
+            #Hexo: 'https://hexo.io'
+            #PPOffice: 'https://github.com/ppoffice'
     -
         # Widget name
         type: category

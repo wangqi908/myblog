@@ -13,11 +13,12 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "gitment": "0.0.3",
     "hexo": "^4.2.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-feed": "^2.2.0",
-    "hexo-generator-index-pin-top": "^0.2.2",
+    "hexo-generator-index": "^1.0.0",
     "hexo-generator-json-content": "^4.1.6",
     "hexo-generator-search": "^2.4.0",
     "hexo-generator-searchdb": "^1.2.0",
@@ -29,6 +30,7 @@
     "hexo-server": "^1.0.0",
     "node-prismjs": "^0.1.2",
     "prismjs": "^1.19.0",
-    "qr-image": "^3.2.0"
+    "qr-image": "^3.2.0",
+    "social-share.js": "^1.0.16"
   }
 }
