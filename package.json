@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "core-js": "^3.6.4",
+    "gitalk": "^1.5.0",
     "gitment": "0.0.3",
     "hexo": "^4.2.0",
     "hexo-generator-archive": "^1.0.0",
@@ -31,6 +33,8 @@
     "node-prismjs": "^0.1.2",
     "prismjs": "^1.19.0",
     "qr-image": "^3.2.0",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
     "social-share.js": "^1.0.16"
   }
 }
