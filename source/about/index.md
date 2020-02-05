@@ -4,11 +4,10 @@ date:
 thumbnail: /images/about.jpg
 layout: about
 ---
-# nek0ri
 
 	很高兴你会打开这一页面ฅ'ω'ฅ
 
-### 关于我
+### 我
 
 &emsp;&emsp;我是猫梨，普通的大学生一枚。
 
@@ -54,10 +53,6 @@ layout: about
 
 ### 联系方式
 
-> 社交平台：[知乎](https://www.zhihu.com/people/mattlee) [微博](https://weibo.com/6605314462/profile?topnav=1&wvr=6) [GitHub](https://github.com/nek0ri)
+> 社交平台见桌面端侧栏或移动端底部的档案Widget
 >
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
-> 
-> 您可通过在本页面下方的Disqus评论区留言，
->
-> 或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链。
