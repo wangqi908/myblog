@@ -6,7 +6,7 @@ tags:
  - 知乎专栏
 categories:
  - 知乎专栏
-thumbnail: /images/杂谈-Bike.jpeg
+thumbnail: http://q5a2kplae.bkt.clouddn.com/杂谈-Bike.jpeg
 ---
 
 >如果说烧耳机是个坑，那么烧自行车就是个惊天巨坑。（逃）
@@ -19,11 +19,11 @@ thumbnail: /images/杂谈-Bike.jpeg
 
 而最后一次去车店是在2018年底。那天晚上闲逛时看见一家Trek店，然后就走了进去和店员闲聊了一会，顺便拍了下当时的定制版新款Madone等（不得不说，真好看呐）
 
-![](/images/articles/杂谈-Bike/2.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/杂谈-Bike2.jpg)
 
 > Project One定制Madone
 
-![](/images/articles/杂谈-Bike/3.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/杂谈-Bike3.jpg)
 
 > 某款Emonda Disc（多谢评论区知友指正）
 

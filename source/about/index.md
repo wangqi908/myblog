@@ -1,7 +1,7 @@
 ---
 title: 关于
 date:
-thumbnail: /images/about.jpg
+thumbnail: http://q5a2kplae.bkt.clouddn.com/about.jpg
 layout: about
 ---
 

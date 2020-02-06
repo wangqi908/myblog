@@ -7,7 +7,7 @@ tags:
  - 音特美
 categories:
  - 知乎专栏
-thumbnail: https://img.vim-cn.com/b5/933a8f80ff7599066f15750a79c5107bae4842.jpg
+thumbnail: http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR.jpg
 
 ---
 
@@ -31,9 +31,9 @@ ___
 
 先放两张图，嘿嘿
 
-![](https://img.vim-cn.com/95/7c39204c3d9e35623a67749fe8e818a45711a0.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-2.jpg)
 
-![](https://img.vim-cn.com/5b/874ea0c420af9788d3c47c3babe4386a68d5ef.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-3.jpg)
 
 ___
 
@@ -57,15 +57,15 @@ ___
 
 主要听了以下曲子：
 
-![](https://img.vim-cn.com/a9/44710384833e7179a4243f0d4df0c3e3cc96e9.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-4.jpg)
 
 > Salley - 「green」
 
-![](https://img.vim-cn.com/78/91f0ba6777e723864e104cb33ac56bf081349a.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-5.jpg)
 
 > 松田彬人 - 「おもいでミュージック」 (TV动画《 吹响! 上低音号》OST专辑)
 
-![](https://img.vim-cn.com/c9/8d71db75f1ff1639a544b8d752d14758f3ba43.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-6.jpg)
 
 > 松田彬人 - 映画『リズと青い鳥』OST（剧场版动画《利兹与青鸟》OST专辑）
 

@@ -7,7 +7,7 @@ tags:
  - Aimer
 categories:
  - 知乎专栏
-thumbnail: /images/Aimer（上篇）.jpg
+thumbnail: http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）.jpg
 ---
 
 （题图：Aimer - 「After Dark」专辑cover）
@@ -22,7 +22,7 @@ thumbnail: /images/Aimer（上篇）.jpg
 
 我知道Aimer大概是在14、15年，那时候她也已经出道一段时间了，不过感觉直到那首「Brave Shine」在Fate/Stay Night UBW TV版中登场之前，她都不算很火。
 
-![](/images/articles/Aimer（上篇）/2.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）2.jpg)
 
 > 「Brave Shine」 - “金闪闪每天早上都被自己帅醒”（雾）
 
@@ -34,7 +34,7 @@ ___
 
 记得我听到的第一首Aimer的歌，是「眠りの森」。
 
-![](/images/articles/Aimer（上篇）/3.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）3.jpg)
 
 > 「眠りの森」
 
@@ -48,7 +48,7 @@ ___
 
 如果要问我眼中Aimer最有趣的专辑，那我觉得「Your Favorite Things」是当之无愧的。
 
-![](/images/articles/Aimer（上篇）/4.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）4.jpg)
 
 > 「Your Favorite Things」
 
@@ -62,15 +62,15 @@ ___
 
 另外，“熬夜三部曲”：「AM02:00」、「AM03:00」、「AM04:00」可以说至今都是我最喜欢的一些Aimer的作品。在初三的很多个夜晚，这三首确实在那些时间段里作为陪伴我通宵达旦的音乐的一部分。
 
-![](/images/articles/Aimer（上篇）/5.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）5.jpg)
 
 > 「Sleepless Nights」 - 「AM02:00」
 
-![](/images/articles/Aimer（上篇）/6.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）6.jpg)
 
 > 「Midnight Sun」 - 「AM03:00」
 
-![](/images/articles/Aimer（上篇）/7.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/Aimer（上篇）7.jpg)
 
 > 「DAWN」 - 「AM04:00」
 

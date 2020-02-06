@@ -7,7 +7,7 @@ tags:
  - 音特美
 categories:
  - 知乎专栏
-thumbnail: /images/音特美ER4SR.jpg
+thumbnail: http://q5a2kplae.bkt.clouddn.com/音特美ER4SR.jpg
 ---
 
 这段时间略高产（咳咳咳）
@@ -24,11 +24,11 @@ ___
 
 先来放个图。
 
-![](/images/articles/音特美ER4SR/2.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR2.jpg)
 
 > 分线器做工比之前好了不少
 
-![](/images/articles/音特美ER4SR/3.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR3.jpg)
 
 > 本体也是
 
@@ -46,19 +46,19 @@ ___
 
 主要听的曲目如下：
 
-![](/images/articles/音特美ER4SR/4.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR4.jpg)
 
 > 古川本舗 - 「LIVE.Q2.」(古川本舗音源集 実演編)
 
-![](/images/articles/音特美ER4SR/5.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR5.jpg)
 
 > 松田彬人 - 「おもいでミュージック」 (TV动画《 吹响! 上低音号》OST专辑)
 
-![](/images/articles/音特美ER4SR/6.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR6.jpg)
 
 > 椎名林檎／宇多田ヒカル - 「浪漫と算盤」
 
-![](/images/articles/音特美ER4SR/7.jpg)
+![](http://q5a2kplae.bkt.clouddn.com/音特美ER4SR7.jpg)
 
 > ヨルシカ - 「雨とカプチーノ」
 
