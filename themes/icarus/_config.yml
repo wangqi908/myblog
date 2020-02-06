@@ -143,7 +143,7 @@ widgets:
         # Author name to be shown in the profile widget
         author: nek0ri
         # Title of the author to be shown in the profile widget
-        author_title: 猫梨
+        author_title: 想要做得更好
         # Author's current location to be shown in the profile widget
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
