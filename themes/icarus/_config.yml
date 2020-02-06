@@ -260,4 +260,4 @@ providers:
     #fontcdn: google
     fontcdn: 'https://fonts.lug.ustc.edu.cn/${type}?family=${fontname}'
     # Name or URL of the webfont Icon CDN provider
-    iconcdn: fontawesome
+    iconcdn: 'https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css'
