@@ -19,11 +19,11 @@ thumbnail: /images/杂谈-Bike.jpeg
 
 而最后一次去车店是在2018年底。那天晚上闲逛时看见一家Trek店，然后就走了进去和店员闲聊了一会，顺便拍了下当时的定制版新款Madone等（不得不说，真好看呐）
 
-{% asset_img 2.jpg %}
+![](/images/articles/杂谈-Bike/2.jpg)
 
 > Project One定制Madone
 
-{% asset_img 3.jpg %}
+![](/images/articles/杂谈-Bike/3.jpg)
 
 > 某款Emonda Disc（多谢评论区知友指正）
 

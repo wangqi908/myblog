@@ -24,11 +24,11 @@ ___
 
 先来放个图。
 
-{% asset_img 2.jpg %}
+![](/images/articles/音特美ER4SR/2.jpg)
 
 > 分线器做工比之前好了不少
 
-{% asset_img 3.jpg %}
+![](/images/articles/音特美ER4SR/3.jpg)
 
 > 本体也是
 
@@ -46,19 +46,19 @@ ___
 
 主要听的曲目如下：
 
-{% asset_img 4.jpg %}
+![](/images/articles/音特美ER4SR/4.jpg)
 
 > 古川本舗 - 「LIVE.Q2.」(古川本舗音源集 実演編)
 
-{% asset_img 5.jpg %}
+![](/images/articles/音特美ER4SR/5.jpg)
 
 > 松田彬人 - 「おもいでミュージック」 (TV动画《 吹响! 上低音号》OST专辑)
 
-{% asset_img 6.jpg %}
+![](/images/articles/音特美ER4SR/6.jpg)
 
 > 椎名林檎／宇多田ヒカル - 「浪漫と算盤」
 
-{% asset_img 7.jpg %}
+![](/images/articles/音特美ER4SR/7.jpg)
 
 > ヨルシカ - 「雨とカプチーノ」
 
