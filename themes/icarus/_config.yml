@@ -101,7 +101,7 @@ comment:
         # Donation entry name
         #type: wechat
         # Qrcode image URL
-        #qrcode: ''
+        #qrcode: 'http://q5a2kplae.bkt.clouddn.com/wechat.jpg'
     #-
         # Donation entry name
         #type: paypal
