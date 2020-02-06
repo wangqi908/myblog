@@ -13,20 +13,10 @@ layout: about
 
 &emsp;&emsp;曾是NOI、VEX、CTF等比赛的选手；
 
-&emsp;&emsp;自行车、音乐、HiFi、动漫等爱好者；
+&emsp;&emsp;自行车、音乐、HiFi、动漫、FPS游戏等爱好者；
 
 &emsp;&emsp;立志步入HPC与Acoustic专业。
 
-<br/>
-
-***教育经历***
-
-&emsp;&emsp;**XiangMing** High Sch. 
-
-&emsp;&emsp;=> **T**aiyuan **U**niversity of **T**echnology
-
-&emsp;&emsp;&emsp;&emsp;=> **Tongji** University
-  
 <br/>
 
 ### 关于本站
