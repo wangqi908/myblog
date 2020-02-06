@@ -13,8 +13,6 @@ thumbnail: /images/扯扯音特美ER2XR.jpg
 
 我又回来了（
 
-![](/images/扯扯音特美ER2XR.jpg)
-
 <!--more-->
 
 这个专栏已经建了快四年，然而一共也就写了没几篇文章，而且之前主要都是写有关自行车的内容...（其实之前还有一篇QC15的文章来着，不过后来删除了。毕竟隔了那么长时间，已经没啥参考价值了。）
@@ -33,9 +31,9 @@ ___
 
 先放两张图，嘿嘿
 
-{% asset_img 2.jpg %}
+![](/images/articles/扯扯音特美ER2XR/2.jpg)
 
-{% asset_img 3.jpg %}
+![](/images/articles/扯扯音特美ER2XR/3.jpg)
 
 ___
 
