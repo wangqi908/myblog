@@ -9,7 +9,7 @@ canonical_url: https://nek0ri.de
 # Path or URL to RSS atom.xml
 rss: /atom.xml
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
-logo: /images/logo.jpeg
+logo: http://q5a2kplae.bkt.clouddn.com/logo.jpeg
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
@@ -147,7 +147,7 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: /images/shirakami.jpg
+        avatar: http://q5a2kplae.bkt.clouddn.com/shirakami.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square
