@@ -3,15 +3,15 @@ title: 友链
 date:
 layout: links
 ---
->**青花鱼** [zankyo.cc](https://zankyo.cc)
+>{% img https://pic.imgdb.cn/item/5e3d20c62fb38b8c3c066d8d.png 80 80 %}
 >
->好像是医科大佬
+>**青花鱼** [zankyo.cc](https://zankyo.cc) ：好像是医科大佬
 
 </br>
 
->**MisakaCenter** [misaka.center](https://misaka.center)
+>{% img https://pic.imgdb.cn/item/5e3d216f2fb38b8c3c067eb1.png 80 80 %}
 >
->因果论武器
+>**MisakaCenter** [misaka.center](https://misaka.center) ：因果论武器
 
 </br>
 
