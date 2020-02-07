@@ -13,9 +13,37 @@ layout: about
 
 &emsp;&emsp;曾是NOI、VEX、CTF等比赛的选手；
 
-&emsp;&emsp;自行车、音乐、HiFi、动漫、FPS游戏等爱好者；
+&emsp;&emsp;自行车、音乐、HiFi、动漫、电子产品等爱好者；
 
-&emsp;&emsp;立志步入HPC与Acoustic专业。
+<br/>
+
+***Language***
+
+&emsp;&emsp;中文、English、Deutsch（DaF）、日本語（下手）
+
+***学习***
+
+* &emsp;&emsp;现在某华东地区划船高校就读Deutsch
+
+* &emsp;&emsp;C、C++、Python、JavaScript学习中
+
+* &emsp;&emsp;想研究高性能计算与声学
+
+<br/>
+
+***喜欢的音乐***
+
+&emsp;&emsp;我还是比较杂食的：POP、JPOP、ROCK、JAZZ、古典、后摇、民谣等
+
+***喜欢的歌手和乐队***
+
+&emsp;&emsp;Linkin Park、Aimer、椎名林檎、東京事変、Jason Mraz、ヨルシカ、Galileo Galilei、きのこ帝国、chatmonchy、majiko等
+
+***游戏***
+
+* &emsp;&emsp;CS:GO、R6、COD、HALO等fps游戏 
+* &emsp;&emsp;OSU！菜鸡玩家
+* &emsp;&emsp;战舰世界、坦克世界
 
 <br/>
 
