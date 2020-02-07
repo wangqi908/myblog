@@ -7,7 +7,7 @@ tags:
  - 音特美
 categories:
  - 知乎专栏
-thumbnail: http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR.jpg
+thumbnail: https://pic.imgdb.cn/item/5e3d088b2fb38b8c3c03f070.jpg
 
 ---
 
@@ -31,9 +31,9 @@ ___
 
 先放两张图，嘿嘿
 
-![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-2.jpg)
+![](https://pic.imgdb.cn/item/5e3d09522fb38b8c3c0407f5.jpg)
 
-![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-3.jpg)
+![](https://pic.imgdb.cn/item/5e3d09522fb38b8c3c0407f7.jpg)
 
 ___
 
@@ -57,15 +57,15 @@ ___
 
 主要听了以下曲子：
 
-![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-4.jpg)
+![](https://pic.imgdb.cn/item/5e3d09522fb38b8c3c0407f9.jpg)
 
 > Salley - 「green」
 
-![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-5.jpg)
+![](https://pic.imgdb.cn/item/5e3d08c82fb38b8c3c03f816.jpg)
 
 > 松田彬人 - 「おもいでミュージック」 (TV动画《 吹响! 上低音号》OST专辑)
 
-![](http://q5a2kplae.bkt.clouddn.com/扯扯音特美ER2XR-6.jpg)
+![](https://pic.imgdb.cn/item/5e3d09522fb38b8c3c0407fc.jpg)
 
 > 松田彬人 - 映画『リズと青い鳥』OST（剧场版动画《利兹与青鸟》OST专辑）
 

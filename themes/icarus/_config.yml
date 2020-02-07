@@ -9,7 +9,7 @@ canonical_url: https://nek0ri.de
 # Path or URL to RSS atom.xml
 rss: /atom.xml
 # Path or URL to the website's logo to be shown on the left of the navigation bar or footer
-logo: http://q5a2kplae.bkt.clouddn.com/logo.jpeg
+logo: https://pic.imgdb.cn/item/5e3d0e712fb38b8c3c048512.jpg
 # Open Graph metadata
 # https://hexo.io/docs/helpers.html#open-graph
 open_graph:
@@ -101,7 +101,7 @@ comment:
         # Donation entry name
         #type: wechat
         # Qrcode image URL
-        #qrcode: 'http://q5a2kplae.bkt.clouddn.com/wechat.jpg'
+        #qrcode: ''
     #-
         # Donation entry name
         #type: paypal
@@ -147,7 +147,7 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: http://q5a2kplae.bkt.clouddn.com/shirakami.jpg
+        avatar: https://pic.imgdb.cn/item/5e3d0e9b2fb38b8c3c0488ee.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square

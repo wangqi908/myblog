@@ -8,7 +8,7 @@ tags:
  - 演唱会
 categories:
  - 知乎专栏
-thumbnail: http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）1.jpeg
+thumbnail: https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c0.jpg
 ---
 
 （题图：上海场的Live中，一位小姐姐自发送给观众的卡片）
@@ -31,7 +31,7 @@ ___
 
 就例如2016年的首张专辑「ninelie」。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）2.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c2.jpg)
 
 > 「ninelie」
 
@@ -51,7 +51,7 @@ ___
 
 而紧随其后发行的「Insane Dream / Us」，作出了更多元风格的探索。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）3.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c4.jpg)
 
 > 「Insane Dream / Us」
 
@@ -71,7 +71,7 @@ ___
 
 ___
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）4.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c6.jpg)
 
 >「daydream」
 
@@ -85,7 +85,7 @@ ___
 
 ___
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）5.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c8.jpg)
 
 > 花の唄 / ONE / 六等星の夜 Magic Blue ver.
 
@@ -109,7 +109,7 @@ ___
 
 在国家会展中心竣工之后，对很多大型展览而言，除了新国际博览中心外有了第二个选择，因此之后很多次的车展我都前往此处参观了。但在四叶草办Live我还是第一次听说，在此前一周我还以为应该是在梅奔文化中心办的。虽然觉得怪怪的，但不可能因为这就不去了呀。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）6.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461cb.jpg)
 
 > 四叶草是真的大
 
@@ -117,11 +117,11 @@ ___
 
 迷路了半天终于找到了Live所在的虹馆的位置，进入场贩区开始排队（真的没想到这个点场贩已经排起了超长的队伍）
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）7.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461cd.jpg)
 
 > 100元的钥匙扣...（吐血）
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）8.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461cf.jpg)
 
 > 看在限量的份上就买一个吧
 
@@ -131,11 +131,11 @@ ___
 
 在露天休息区的地方，刷着微信QQ和微博查看着各个应援团、社团、观众的动态。随后突然看到微博@Aimer_Fans_Club的@Lotus_Double蓮在组队发放礼品（据说这位大佬国内外的多场Aimer Live都前去看过），赶紧和同行的小伙伴跑了过去。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）9.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461d1.jpg)
 
 > 画师太太tql
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）10.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461d3.jpg)
 
 > 莲大佬提供的应援guide
 
@@ -143,39 +143,39 @@ ___
 
 （不过话说回来，各个应援团和社团在礼品和准备上甚至比官方还用心，真的是十分感动，也很感谢众多大佬的付出）
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）11.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461d5.jpg)
 
 > 扇子
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）12.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461d7.jpg)
 
 > 腕带（由于是一次性的，不舍得用）
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）13.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461d9.jpg)
 
 > 钥匙扣
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）14.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461db.jpg)
 
 > 献花
 
 签名活动。由于后面排了好多人，而笔出墨又不怎么流畅，就草草的写了一笔便离开了。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）15.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461de.jpg)
 
 > 左边那个Matt Lee就是我啦
 
 合照。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）16.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461e1.jpg)
 
 > 来自黑白喵委员会
 
 随后，准备入场！
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）17.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461e3.jpg)
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）18.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461e5.jpg)
 
 由于会场中不允许摄影，因此场馆内以及Live实况就没有拍摄。
 
@@ -187,7 +187,7 @@ Live的内容上，由于先前各位的repo已经很详细的，我就不多描
 
 就这样，仿佛梦醒一般，Live落下了帷幕。
 
-![](http://q5a2kplae.bkt.clouddn.com/Aimer（中篇）19.jpg)
+![](https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461e7.jpg)
 
 > 结束时已将近11点
 

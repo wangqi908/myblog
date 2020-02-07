@@ -1,7 +1,7 @@
 ---
 title: 关于
 date:
-thumbnail: http://q5a2kplae.bkt.clouddn.com/about.jpg
+thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 layout: about
 ---
 

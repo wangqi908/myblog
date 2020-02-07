@@ -5,7 +5,7 @@ tags:
  - 日常
 categories:
  - 日常
-thumbnail: http://q5a2kplae.bkt.clouddn.com/hello-nek0ri-de.jpg
+thumbnail: https://pic.imgdb.cn/item/5e3d05a02fb38b8c3c03a59c.jpg
 ---
 
 	终于建站完成了qwq

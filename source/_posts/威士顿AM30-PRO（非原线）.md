@@ -7,7 +7,7 @@ tags:
  - 威士顿
 categories:
  - 知乎专栏
-thumbnail: http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）1.jpeg
+thumbnail: https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e47.jpg
 ---
 
 抓住了2019的尾巴～
@@ -26,15 +26,15 @@ ___
 
 放图时间。
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）2.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e49.jpg)
 
 > 经典的三防盒
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）3.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e4b.jpg)
 
 > 耳机本体
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）4.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e4d.jpg)
 
 > 这个外观，额，感觉仁者见仁吧
 
@@ -60,19 +60,19 @@ ___
 
 首先介绍下主要听的曲目：
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）5.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e4f.jpg)
 
 > 松田彬人 - 映画『リズと青い鳥』OST（剧场版动画《利兹与青鸟》OST专辑）
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）6.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e51.jpg)
 
 > 椎名林檎／宇多田ヒカル - 「浪漫と算盤」
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）7.jpg)
+![](https://pic.imgdb.cn/item/5e3d0b852fb38b8c3c043b21.jpg)
 
 > ヨルシカ - 「雨とカプチーノ」
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）8.jpg)
+![](https://pic.imgdb.cn/item/5e3d0b852fb38b8c3c043b27.jpg)
 
 > 古川本舗 - 「LIVE.Q2.」(古川本舗音源集 実演編)
 
@@ -82,7 +82,7 @@ ___
 
 偏音有多严重呢？
 
-![](http://q5a2kplae.bkt.clouddn.com/威士顿AM30 PRO（非原线）9.jpg)
+![](https://pic.imgdb.cn/item/5e3d0c4e2fb38b8c3c044e55.jpg)
 
 当左右耳声压平衡之后，我发现一个更严重的问题：只 有 低 频，中高频全部萎了，感觉比我19.9的KOSS Plug声音还要糟糕。真的听起来就是有种自己被闷在被子里棍棒伺候的感觉，除了闷就是闷。
 
