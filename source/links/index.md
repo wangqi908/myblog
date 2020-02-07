@@ -3,13 +3,13 @@ title: 友链
 date:
 layout: links
 ---
->青花鱼 [zankyo.cc](https://zankyo.cc)
+>**青花鱼** [zankyo.cc](https://zankyo.cc)
 >
 >好像是医科大佬
 
 </br>
 
->MisakaCenter [misaka.center](https://misaka.center)
+>**MisakaCenter** [misaka.center](https://misaka.center)
 >
 >因果论武器
 
