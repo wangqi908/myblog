@@ -78,17 +78,8 @@ search:
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
     # Name of the comment plugin
-    type: gitalk
-    owner: nek0ri         # (required) GitHub user name
-    repo: myblog          # (required) GitHub repository name
-    client_id: bd02ab4e97ac7cc4b483     # (required) OAuth application client id
-    client_secret: 5c9231aa3d2bb7d932bf8385f372b847f748eceb # (required) OAuth application client secret
-    admin: nek0ri         # (required) GitHub repo owner and collaborators who can initialize github issues
-                            #            Can either be a string or an array.
-                            #            admin:
-                            #                - xxxxxx1
-                            #                - xxxxxx2
-
+    type: livere
+    uid: MTAyMC80ODUzMi8yNTAyNg==   # (required) application id of your site
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 #donate:
