@@ -74,3 +74,5 @@ layout: about
 > 社交平台见桌面端侧栏或移动端底部的档案Widget
 >
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
+>
+> 知乎专栏QQ交流群：[点这里！](https://jq.qq.com/?_wv=1027&k=5OOQ0EF)
