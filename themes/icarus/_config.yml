@@ -77,9 +77,12 @@ search:
 # Comment plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
 comment:
-    # Name of the comment plugin
-    type: livere
-    uid: MTAyMC80ODUzMi8yNTAyNg==   # (required) application id of your site
+    type: valine
+    app_id: vT1h18rwSYXRzHvHY4oYj9Rj-gzGzoHsz        # (required) LeanCloud application id
+    app_key: cR290DhR9b7yrogNs9p4KcAk       # (required) LeanCloud application key
+    notify: true           # (optional) receive email notification
+    verify: true           # (optional) show verification code
+    placeholder: hi   # (optional) comment box placeholder text
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 #donate:
