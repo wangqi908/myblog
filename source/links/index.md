@@ -33,6 +33,16 @@ layout: links
 >
 >May The Force Be With You!
 
+</br>
+
+{% img https://img.xiaoyou66.com/images/2020/01/14/nUDD.jpg 80 80 %}
+>
+>**小游** [xiaoyou66.com](https://xiaoyou66.com/)
+>
+>二次元技术宅
+
+</br>
+
 您可通过在本页面下方的评论区留言，
 
 或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链。
