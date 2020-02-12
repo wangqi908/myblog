@@ -19,6 +19,10 @@ layout: links
 >
 >**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com) : 无论你选择做什么，追求完美的程度都决定你成就的高度！
 
+>{% img https://q1.qlogo.cn/g?b=qq&nk=1843272640&s=640 80 80 %}
+>
+>**LeeYD · Blog** [www.leeyiding.com](https://www.leeyiding.com) : May The Force Be With You!
+
 您可通过在本页面下方的评论区留言，
 
 或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链。
