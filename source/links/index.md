@@ -35,7 +35,7 @@ layout: links
 
 </br>
 
-{% img https://img.xiaoyou66.com/images/2020/01/14/nUDD.jpg 80 80 %}
+>{% img https://img.xiaoyou66.com/images/2020/01/14/nUDD.jpg 80 80 %}
 >
 >**小游** [xiaoyou66.com](https://xiaoyou66.com/)
 >
