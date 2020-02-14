@@ -51,6 +51,14 @@ layout: links
 
 </br>
 
+>{% img https://cdn.jsdelivr.net/gh/misaka7690/My_GitHub_CDN//img/avatar.jpg 80 80 %}
+>
+>**misaka7690** [blog.cilicili.xyz](https://blog.cilicili.xyz)
+>
+>啦啦啦啦
+
+</br>
+
 您可通过在本页面下方的评论区留言，
 
 或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链=w=
