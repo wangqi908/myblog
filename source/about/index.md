@@ -6,6 +6,7 @@ layout: about
 ---
 
 	很高兴你会打开这一页面ฅ'ω'ฅ
+	本页底部的评论区为留言板～
 
 ### 我
 
@@ -23,7 +24,7 @@ layout: about
 
 ***学习***
 
-* &emsp;&emsp;现在某华东地区划船高校就读Deutsch
+* &emsp;&emsp;现在上海三个人划船大学就读
 
 * &emsp;&emsp;C、C++、Python、JavaScript学习中
 
@@ -41,9 +42,11 @@ layout: about
 
 ***游戏***
 
+    //虽然现在已经不怎么打了emmm
+
 * &emsp;&emsp;CS:GO、R6、COD、HALO等fps游戏 
 * &emsp;&emsp;OSU！菜鸡玩家
-* &emsp;&emsp;战舰世界、坦克世界
+* &emsp;&emsp;战舰世界
 
 <br/>
 
@@ -75,4 +78,4 @@ layout: about
 >
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
 >
-> 知乎专栏QQ交流群：[点这里！](https://jq.qq.com/?_wv=1027&k=5OOQ0EF)
+> QQ交流群：[点这里！](https://jq.qq.com/?_wv=1027&k=5OOQ0EF)
