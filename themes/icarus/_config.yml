@@ -30,6 +30,7 @@ navbar:
         主页: /
         归档: /archives
         目录: /categories
+        黑板: /blackboard
         #标签: /tags
         友链: /links
         关于: /about
