@@ -30,7 +30,7 @@ navbar:
         主页: /
         归档: /archives
         目录: /categories
-        #标签: /tags
+        黑板: /categories/黑板
         友链: /links
         关于: /about
     # Navigation bar links to be shown on the right
