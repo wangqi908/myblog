@@ -1,17 +1,18 @@
 ---
 title: 关于
-date:
+date: 2020-02-16 13:00:00
 thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 layout: about
 ---
 
 	很高兴你会打开这一页面ฅ'ω'ฅ
+    页面时间为最近更新时间～
 
 ### 我
 
 &emsp;&emsp;我是猫梨，普通的大学生一枚。
 
-&emsp;&emsp;曾是NOI、VEX、CTF等选手；
+&emsp;&emsp;曾经的NOI、VEX、CTF选手；
 
 &emsp;&emsp;自行车、音乐、HiFi、动漫、电子产品等爱好者；
 
@@ -27,7 +28,7 @@ layout: about
 
 * &emsp;&emsp;C、C++、Python、JavaScript学习中
 
-* &emsp;&emsp;想研究高性能计算与声学
+* &emsp;&emsp;想研究高性能计算
 
 <br/>
 
