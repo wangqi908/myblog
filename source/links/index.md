@@ -19,7 +19,7 @@ layout: links
 
 </br>
 
->{% img https://i.loli.net/2020/02/05/UQnWeNyj8JutqsG.jpg 80 80 %}
+>{% img https://www.suiyuebaobao.com/hotlink-ok/avatar.jpg 80 80 %}
 >
 >**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
