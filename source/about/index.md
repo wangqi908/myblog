@@ -14,15 +14,17 @@ layout: about
 
 &emsp;&emsp;一枚普通的大学生
 
+&emsp;&emsp;猫控
+
 &emsp;&emsp;曾是OIer、VEXer
 
 &emsp;&emsp;自行车、音乐、HiFi、动漫、电子产品等爱好者
 
 &emsp;&emsp;游戏陪伴了我大多数的童年，但现在打不动了
 
-&emsp;&emsp;出门自来水，在家自闭人
-
 &emsp;&emsp;知道自己能力有限，但想做很多十分有挑战的事
+
+&emsp;&emsp;想认识更多有趣的人！
 
 <br/>
 
