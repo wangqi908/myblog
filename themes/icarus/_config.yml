@@ -27,38 +27,19 @@ open_graph:
 navbar:
     # Navigation bar menu links
     menu:
-        主页:
-            icon: fas fa-home
-            url: /
-        归档:
-            icon: fas fa-archive
-            url: /archives
-        目录:
-            icon: fas fa-book
-            url: /categories
-        黑板:
-            icon: fas fa-chalkboard
-            url: /categories/黑板
-        友链:
-            icon: fas fa-user-friends
-            url: /links
-        关于:
-            icon: fas fa-info-circle
-            url: /about
-    #menu:
-        #主页: /
-        #归档: /archives
-        #目录: /categories
-        #黑板: /categories/黑板
-        #友链: /links
-        #关于: /about
+        主页: /
+        归档: /archives
+        目录: /categories
+        黑板: /categories/黑板
+        友链: /links
+        关于: /about
     # Navigation bar links to be shown on the right
     links:
         #Download on GitHub:
             #icon: fab fa-github
             #url: 'https://github.com/ppoffice/hexo-theme-icarus'
         # #####Test
-        RSS:
+        #RSS:
             icon: fas fa-rss
             url: /atom.xml
 # Footer section link settings
@@ -171,7 +152,7 @@ widgets:
         # Links to be shown on the bottom of the profile widget
         social_links:
             Weibo:
-                icon: fab fa-telegram
+                icon: fab fa-telegram-plane
                 url: 'https://t.me/nek0ri'
             #Facebook:
                 #icon: fab fa-facebook
@@ -188,9 +169,9 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: 'https://github.com/nek0ri'
-            #RSS:
-                #icon: fas fa-rss
-                #url: /atom.xml
+            RSS:
+                icon: fas fa-rss
+                url: /atom.xml
     -
         # Widget name
         type: toc
