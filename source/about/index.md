@@ -60,8 +60,10 @@ layout: about
 
 ### 联系方式
 
-> 社交平台见桌面端侧栏或移动端底部的档案Widget
+> 更多社交平台见桌面端侧栏或移动端底部的档案Widget
 >
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
 >
-> QQ交流群：[点这里！](https://jq.qq.com/?_wv=1027&k=5OOQ0EF)
+> QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
+
+（在工作日学习时仅中国时间晚间在线）
