@@ -14,7 +14,7 @@ layout: about
 
 &emsp;一枚普通的大学生
 
-&emsp;;猫控
+&emsp;猫控
 
 &emsp;曾是OIer、VEXer
 
@@ -52,7 +52,7 @@ layout: about
 
 <br/>
 
-***域名历史***
+**域名历史**
 
 &emsp;nekori.info => nek0ri.com => **nek0ri.de**
   
