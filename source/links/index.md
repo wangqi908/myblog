@@ -3,6 +3,10 @@ title: 友链
 date:
 layout: links
 ---
+    您可通过在本页面下方的评论区留言，
+    或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链=w=
+    （打“*”即以发现该网站无法访问）
+
 >{% img https://pic.imgdb.cn/item/5e3d20c62fb38b8c3c066d8d.png 80 80 %}
 >
 >**青花鱼** [zankyo.cc](https://zankyo.cc)
@@ -58,7 +62,3 @@ layout: links
 >啦啦啦啦
 
 </br>
-
-您可通过在本页面下方的评论区留言，
-
-或者[**电邮**](nek0ri@outlook.com)联系我来添加您的网站作为友链=w=
