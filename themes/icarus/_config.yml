@@ -151,7 +151,7 @@ widgets:
         follow_link: 'https://www.zhihu.com/people/mattlee'
         # Links to be shown on the bottom of the profile widget
         social_links:
-            Weibo:
+            Telegram:
                 icon: fab fa-telegram-plane
                 url: 'https://t.me/nek0ri'
             #Facebook:
