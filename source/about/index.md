@@ -34,9 +34,9 @@ layout: about
 
 **学习**
 
-* &emsp;即将流浪欧洲
+* &emsp;准备TestDaF中
 
-* &emsp;C、C++、Python、JS学习中
+* &emsp;精通C、C++、Python的bug编写
 
 * &emsp;想研究高性能计算
 
