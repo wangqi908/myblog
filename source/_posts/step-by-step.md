@@ -5,7 +5,7 @@ tags:
  - 碎碎念
 categories:
  - 日常
-thumbnail: https://pic.imgdb.cn/item/5e5374de6127cc07136e6954.jpg
+thumbnail: https://pic.imgdb.cn/item/5e5603216127cc0713c9defc.jpg
 ---
 
 > 图是我画的哦！（虽然只是临摹orz）
