@@ -12,7 +12,7 @@ layout: about
 
 &emsp;**猫梨 / ねこり / nek0ri**
 
-&emsp;一枚普通的大学生
+&emsp;一枚普通的'00s大学生
 
 &emsp;猫控
 
@@ -65,5 +65,3 @@ layout: about
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
 >
 > QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
-
-（在工作日学习时仅中国时间晚间在线）
