@@ -3,9 +3,6 @@ title: Aimer（中篇）
 date: 2020-01-28 00:00:00
 tags: 
  - 歌手与音乐人
- - 知乎专栏
- - Aimer
- - 演唱会
 categories:
  - 知乎专栏
 thumbnail: https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c0.jpg

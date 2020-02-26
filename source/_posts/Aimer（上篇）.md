@@ -3,8 +3,6 @@ title: Aimer（上篇）
 date: 2019-12-08 00:00:00
 tags: 
  - 歌手与音乐人
- - 知乎专栏
- - Aimer
 categories:
  - 知乎专栏
 thumbnail: https://pic.imgdb.cn/item/5e3d09ad2fb38b8c3c04101c.jpg

@@ -29,7 +29,7 @@ navbar:
     menu:
         主页: /
         归档: /archives
-        目录: /categories
+        分类: /categories
         黑板: /categories/黑板
         友链: /links
         关于: /about
@@ -186,11 +186,11 @@ widgets:
         #links:
             #Hexo: 'https://hexo.io'
             #PPOffice: 'https://github.com/ppoffice'
-    -
+    #-
         # Widget name
-        type: category
+        #type: category
         # Where should the widget be placed, left or right
-        position: left
+        #position: left
     #-
         # Widget name
         #type: tagcloud
