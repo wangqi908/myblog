@@ -81,7 +81,7 @@ comment:
     type: valine
     app_id: vT1h18rwSYXRzHvHY4oYj9Rj-gzGzoHsz        # (required) LeanCloud application id
     app_key: cR290DhR9b7yrogNs9p4KcAk       # (required) LeanCloud application key
-    notify: true           # (optional) receive email notification
+    notify: false           # (optional) receive email notification
     verify: true           # (optional) show verification code
     placeholder: 呐呐，欢迎评论ฅ'ω'ฅ   # (optional) comment box placeholder text
 # Donation entries
