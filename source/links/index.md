@@ -6,13 +6,16 @@ layout: links
 
 您可通过在本页面下方的评论区留言，
 或者电邮(nek0ri@outlook.com)联系我来添加您的网站作为友链=w=
-（打“*”即以发现该网站无法访问）
+（打“（*）”即以发现该网站无法访问）
 
-    //这是一个模版～
-    站点名称：猫梨の部屋
-    网址：https://nek0ri.de
-    简介：我们能做得更好
-    图标：https://pic.imgdb.cn/item/5e43fc102fb38b8c3cdb23dc.png
+{% codeblock lang:markdown 这是模版～ %}
+站点名称：猫梨の部屋
+网址：https://nek0ri.de
+简介：我们能做得更好
+图标：https://pic.imgdb.cn/item/5e43fc102fb38b8c3cdb23dc.png
+{% endcodeblock %}
+
+## 友人帐
 
 >{% img https://pic.imgdb.cn/item/5e3d20c62fb38b8c3c066d8d.png 80 80 %}
 >
@@ -32,7 +35,7 @@ layout: links
 
 >{% img https://www.suiyuebaobao.com/hotlink-ok/avatar.jpg 80 80 %}
 >
->**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
+>（*）**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
 
@@ -75,3 +78,19 @@ layout: links
 >**初之音** [www.himiku.com](https://www.himiku.com/)
 >
 >聆听心中最初的声音
+
+</br>
+
+___
+
+## 发现
+
+一些大佬的博客、或是优秀的站点等等
+
+> **TOKIA** [forte-piano.net](http://forte-piano.net/)
+> 
+> 「京吹」、「中二病」等作品OST作曲大佬的博客
+
+> **Roderick W. Smith** [www.rodsbooks.com](http://www.rodsbooks.com/refind/)
+>
+> rEFInd的编写者，一位热心的大神，曾经发邮件向他请教过该软件的问题
