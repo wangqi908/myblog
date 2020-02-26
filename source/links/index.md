@@ -6,7 +6,7 @@ layout: links
 
 您可通过在本页面下方的评论区留言，
 或者电邮(nek0ri@outlook.com)联系我来添加您的网站作为友链=w=
-（打“（*）”即以发现该网站无法访问）
+（斜体并加粗即已发现该网站无法访问）
 
 {% codeblock lang:markdown 这是模版～ %}
 站点名称：猫梨の部屋
@@ -35,7 +35,7 @@ layout: links
 
 >{% img https://www.suiyuebaobao.com/hotlink-ok/avatar.jpg 80 80 %}
 >
->（*）**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
+>**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
 
