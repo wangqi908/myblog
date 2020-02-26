@@ -60,3 +60,11 @@ layout: links
 >**misaka7690** [blog.cilicili.xyz](https://blog.cilicili.xyz)
 >
 >啦啦啦啦
+
+</br>
+
+>{% img https://www.himiku.com/favicon.ico 80 80 %}
+>
+>**初之音** [www.himiku.com](https://www.himiku.com/)
+>
+>聆听心中最初的声音
