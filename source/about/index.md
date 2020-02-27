@@ -39,7 +39,7 @@ toc: true
 
 * &emsp;精通C、C++、Python的bug编写
 
-* &emsp;想研究高性能计算
+* &emsp;想研究大型机
 
 <br/>
 
