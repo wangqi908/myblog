@@ -81,6 +81,14 @@ layout: links
 
 </br>
 
+>{% img https://public-1252562537.cos.ap-guangzhou.myqcloud.com/avatar.jpg 80 80 %}
+>
+>**Velas电波站** [www.velasx.com](https://www.velasx.com)
+>
+>非正常信号发射与搜寻装置
+
+</br>
+
 ___
 
 ## 发现
