@@ -142,7 +142,8 @@ widgets:
         # Author's current location to be shown in the profile widget
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
-        avatar: https://pic.imgdb.cn/item/5e4e81ba48b86553eef43f45.jpg
+        # avatar: https://pic.imgdb.cn/item/5e4e81ba48b86553eef43f45.jpg
+        avatar: https://pic.imgdb.cn/item/5e5890f16127cc07131a5e45.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square
