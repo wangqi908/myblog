@@ -5,7 +5,7 @@ tags:
  - 学习笔记
 categories:
  - 学习笔记
-thumbnail: https://pic.imgdb.cn/item/5e5b7ce46127cc0713735118.jpg
+thumbnail: https://pic.imgdb.cn/item/5e5cd92e98271cb2b8b42cd6.jpg
 ---
 
 > Geh deinen Weg.
