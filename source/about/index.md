@@ -1,6 +1,6 @@
 ---
 title: 关于
-date: 2020-02-20 22:00:00
+date: 2020-03-01 22:00:00
 thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 layout: about
 toc: true
@@ -40,6 +40,8 @@ toc: true
 * &emsp;精通C、C++、Python的bug编写
 
 * &emsp;想研究大型机
+
+* &emsp;希望一天有48小时
 
 <br/>
 
