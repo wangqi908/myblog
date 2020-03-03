@@ -94,7 +94,7 @@ $ nasm -hf
 
 </br>
 
-## 1 
+## 1 测试
 
 下面创建helloworld.asm文件：（参考了各种链接找到的可靠代码，我还什么都不会，只是为了测试nasm是否正常工作）
 
@@ -127,6 +127,8 @@ _MAIN:
     mov rdi,0
     syscall
 ```
+
+然后进行汇编与运行。
 
 ```bash
 $ nasm -f macho64 -o helloworld.o helloworld.asm
