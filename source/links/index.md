@@ -33,7 +33,7 @@ layout: links
 
 </br>
 
->{% img https://www.suiyuebaobao.com/hotlink-ok/avatar.jpg 80 80 %}
+>{% img https://www.suiyuebaobao.com/favicon.ico 80 80 %}
 >
 >**碎月小屋** [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
