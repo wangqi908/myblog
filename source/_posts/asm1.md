@@ -7,14 +7,14 @@ tags:
 categories:
  - 学习笔记
 toc: true
-thumbnail: https://pic.imgdb.cn/item/5e5e28a998271cb2b8346f93.jpg
+thumbnail: https://pic.imgdb.cn/item/5e5fd63a98271cb2b83d8492.jpg
 ---
 
 > 先打好地基。
 
 <!--more-->
 
-图 / 明日方舟
+图 / hou
 
 > 正式进入汇编语言的学习。
 >
