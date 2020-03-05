@@ -74,3 +74,9 @@ sudo /Applications/Install\ macOS\ Sierra.app/Contents/Resources/createinstallme
 ### 安装
 
 重启你的Mac，按照你Mac的外置驱动器引导快捷键`option`或者`Commmand+Option+P+R`（有些是`Command+R`等），选择你制作的盘并回车，进入安装。
+
+另外，如果安装时提示：
+
+> 这个安装macOS xxxx应用程序副本已损坏,不能用来安装macOS
+
+退出安装程序，断开网络，点击`实用工具`-`终端`，输入`date 1025102016.20`并回车，应该就可以安装了。
