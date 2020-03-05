@@ -3,6 +3,7 @@ title: macOS下配置ZSH和oh-my-zsh
 date: 2020-02-28 21:00:00
 tags: 
  - 终端
+ - Mac
 categories:
  - 干货
 toc: true
