@@ -16,7 +16,7 @@ thumbnail: https://pic.imgdb.cn/item/5e63b3f498271cb2b8f82ad6.jpg
 
 图 ／ 「Sword Art Online」
 
-平时经常用telegram，然而bot和频道从来没有尝试过。让后这两天心血来潮打算整个bot作为RSS订阅的转发机器人（复读机）。
+平时经常用telegram，然而bot和频道从来没有尝试过。然后这两天心血来潮打算整个bot作为RSS订阅的转发机器人（复读机）。
 
 经过一次次的测试，目前看下来效果最好的就是flowerss-bot。（点击[这里](https://github.com/indes/flowerss-bot)前往Github项目页）
 
