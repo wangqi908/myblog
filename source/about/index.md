@@ -69,7 +69,7 @@ toc: true
 >
 > QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`（东八区晚间在线）
 
-> Telegram链接（Beta）
+> Telegram链接
 >
 > [频道](https://t.me/Radiori) [讨论群](https://t.me/nek0ri_ne)
 

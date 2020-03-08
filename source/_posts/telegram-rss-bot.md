@@ -20,9 +20,7 @@ thumbnail: https://pic.imgdb.cn/item/5e63b3f498271cb2b8f82ad6.jpg
 
 经过一次次的测试，目前看下来效果最好的就是flowerss-bot。（点击[这里](https://github.com/indes/flowerss-bot)前往Github项目页）
 
-如果感兴趣的话，也欢迎关注我新创建的频道和讨论群／
-
-（不过目前还在施工之中，链接在本站`关于`页面）
+如果感兴趣的话，也欢迎加入我新创建的频道和讨论群！（[频道](https://t.me/Radiori)和[讨论群](https://t.me/nek0ri_ne)）
 
 那么，就开始吧。
 
