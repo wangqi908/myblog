@@ -5,14 +5,11 @@ tags:
  - Telegram
  - RSS
 toc: true
+description: 从零开始的复读机。
 categories:
  - 干货
 thumbnail: https://pic.imgdb.cn/item/5e63b3f498271cb2b8f82ad6.jpg
 ---
-
-> 从零开始的复读机
-
-<!--more-->
 
 图 ／ 「Sword Art Online」
 
