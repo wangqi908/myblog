@@ -11,6 +11,10 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e63b3f498271cb2b8f82ad6.jpg
 ---
 
+> 从零开始的复读机
+
+<!--more-->
+
 图 ／ 「Sword Art Online」
 
 平时经常用telegram，然而bot和频道从来没有尝试过。然后这两天心血来潮打算整个bot作为RSS订阅的转发机器人（复读机）。
