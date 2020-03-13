@@ -109,7 +109,7 @@ ___
 >
 > **DOLLARS 聊天室** [drrr.com](https://drrr.com/)
 
-> ![](http://bgm.tv/img/ico/bgm_banner.gif)
+> ![](https://pic.imgdb.cn/item/5e6b51f7e83c3a1e3a932887.png)
 >
 > **Bangumi 番组计划** [bangumi.tv](http://bangumi.tv/)
 
