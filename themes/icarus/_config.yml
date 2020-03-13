@@ -31,7 +31,7 @@ navbar:
         归档: /archives
         分类: /categories
         黑板: /categories/黑板
-        友链: /links
+        链接: /links
         关于: /about
     # Navigation bar links to be shown on the right
     links:
@@ -143,7 +143,7 @@ widgets:
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
         # avatar: https://pic.imgdb.cn/item/5e4e81ba48b86553eef43f45.jpg
-        avatar: https://pic.imgdb.cn/item/5e5890f16127cc07131a5e45.jpg
+        avatar: https://pic.imgdb.cn/item/5e6a18aae83c3a1e3a1036d2.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square

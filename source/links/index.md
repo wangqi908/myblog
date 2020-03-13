@@ -1,5 +1,5 @@
 ---
-title: 友链
+title: 链接
 date:
 layout: links
 ---
@@ -30,12 +30,6 @@ layout: links
 >**MisakaCenter** [misaka.center](https://misaka.center) 
 >
 >因果论武器
-
-</br>
-
->*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
->
->无论你选择做什么，追求完美的程度都决定你成就的高度！
 
 </br>
 
@@ -87,6 +81,10 @@ layout: links
 
 </br>
 
+>*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
+>
+>无论你选择做什么，追求完美的程度都决定你成就的高度！
+
 ___
 
 ## 发现
@@ -97,6 +95,24 @@ ___
 > 
 > 「京吹」、「中二病」等作品OST作曲大佬的博客
 
-> **Roderick W. Smith** [www.rodsbooks.com](http://www.rodsbooks.com/refind/)
+> **Roderick W. Smith** [www.rodsbooks.com](http://www.rodsbooks.com/)
 >
 > rEFInd的编写者，一位热心的大神，曾经发邮件向他请教过该软件的问题
+
+</br>
+
+___
+
+## I was there.
+
+> {% img https://pic.imgdb.cn/item/5e68b800e83c3a1e3a79af48.png 80 80 %}
+>
+> **DOLLARS 聊天室** [drrr.com](https://drrr.com/)
+
+> ![](http://bgm.tv/img/ico/bgm_banner.gif)
+>
+> **Bangumi 番组计划** [bangumi.tv](http://bangumi.tv/)
+
+> {% img https://pic.imgdb.cn/item/5e68b89ce83c3a1e3a7a05f1.jpg 80 80 %}
+>
+> **MacIdea** [mac.pcbeta.com](http://mac.pcbeta.com/index.php)
