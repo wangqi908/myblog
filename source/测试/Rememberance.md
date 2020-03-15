@@ -6,7 +6,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e6cac04e83c3a1e3a2b6830.jpg
 ---
 
-> 2003年至今，自己与互联网的点点滴滴。
+> 2003年至今，自己和互联网的一些记忆。
 
 <!--more-->
 

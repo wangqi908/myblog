@@ -1,0 +1,320 @@
+---
+layout: false
+---
+<!DOCTYPE html><html><head>
+<style>
+* {
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(45deg, #4ea1d3, #256b96);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Raleway", sans-serif;
+}
+.card {
+    width: 320px;
+    background: white;
+    border-radius: 7.5px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.5);
+}
+.card .slider {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.card .slider .buttons {
+    padding: 40px;
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+.card .slider .buttons .controls {
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.card .slider .buttons .controls .prevButton,
+.card .slider .buttons .controls .nextButton {
+    color: #444;
+    font-size: 50px;
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+}
+.card .slider .buttons .controls .prevButton:hover,
+.card .slider .buttons .controls .nextButton:hover {
+    color: #E53A40;
+}
+.card .slider .buttons .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.card .slider .buttons .pagination .dot {
+    width: 8px;
+    height: 8px;
+    background: #444;
+    border-radius: 8px;
+    margin: 0 10px;
+    transition: 0.15s ease-in-out;
+    cursor: pointer;
+}
+.card .slider .buttons .pagination .dot.active {
+    background: #E53A40;
+}
+.card .slider .content {
+    display: flex;
+    flex-wrap: wrap;
+    transition: 0.15s ease-in-out;
+}
+.card .slider .content .sliderItem {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    pointer-events: none;
+}
+.card .slider .content .sliderItem.active {
+    pointer-events: inherit;
+}
+.card .slider .content .sliderItem.active .title {
+    animation: untranslate 0.5s ease-in-out forwards;
+}
+.card .slider .content .sliderItem.active .icon {
+    animation: untranslateLeft 0.5s ease-in-out forwards;
+    animation-delay: 650ms;
+}
+.card .slider .content .sliderItem.active .contentText {
+    animation: untranslate 0.5s ease-in-out forwards;
+    animation-delay: 1300ms;
+}
+.card .slider .content .sliderItem .title {
+    font-size: 35px;
+    font-weight: bold;
+    transform: translate(-100%, 0px) rotate(-6deg);
+    transition: 0.5s ease-in-out;
+    opacity: 0;
+}
+.card .slider .content .sliderItem .icon {
+    font-size: 125px;
+    opacity: 0;
+    transition: 0.5s ease-in-out;
+    color: #E53A40;
+    transform: translate(100%, 0px) rotate(6deg);
+}
+.card .slider .content .sliderItem .contentText {
+    transform: translate(-100%, 0px) rotate(-6deg);
+    transition: 0.5s ease-in-out;
+    opacity: 0;
+}
+@keyframes untranslate {
+    0% {
+        opacity: 0;
+        transform: translate(-100%, 0px) rotate(-6deg);
+    }
+    60% {
+        transform: translate(0%, 0px) rotate(0deg);
+    }
+    75% {
+        transform: translate(10px, 0px) rotate(4deg);
+        opacity: 1;
+    }
+    100% {
+        transform: translate(0%, 0px) rotate(0deg);
+        opacity: 1;
+    }
+}
+@keyframes untranslateLeft {
+    0% {
+        opacity: 0;
+        transform: translate(100%, 0px) rotate(6deg);
+    }
+    60% {
+        transform: translate(0%, 0px) rotate(0deg);
+    }
+    75% {
+        transform: translate(-10px, 0px) rotate(-4deg);
+        opacity: 1;
+    }
+    100% {
+        transform: translate(0%, 0px) rotate(0deg);
+        opacity: 1;
+    }
+}
+</style>
+</head>
+<body>
+<script type="text/javascript" src="https://wow.techbrood.com/libs/jquery/jquery-2.1.1.min.js"></script><script src="https://wow.techbrood.com/libs/jquery/jquery-1.11.1.min.js"></script>
+<div class='card'>
+    <div class='slider'>
+        <div class='content'>
+            <div class='sliderItem'>
+                <div class='title'>Generic Action 1</div>
+                <div class='icon'>
+                    <i class="fa fa-trophy" aria-hidden="true"></i>
+                </div>
+                <div class='contentText'>
+                    <p>
+                        Salvia messenger bag narwhal four loko tumeric roof party. Stumptown meditation tumeric, subway tile photo booth flexitarian kinfolk YOLO banjo jianbing iPhone. Vape 3 wolf moon wayfarers, la croix waistcoat helvetica VHS artisan next level pop-up.
+                    </p>
+                </div>
+            </div>
+            <div class='sliderItem'>
+                <div class='title'>Generic Action 2</div>
+                <div class='icon'>
+                    <i class="fa fa-globe" aria-hidden="true"></i>
+                </div>
+                <div class='contentText'>
+                    <p>
+                        Salvia messenger bag narwhal four loko tumeric roof party. Stumptown meditation tumeric, subway tile photo booth flexitarian kinfolk YOLO banjo jianbing iPhone. Vape 3 wolf moon wayfarers, la croix waistcoat helvetica VHS artisan next level pop-up.
+                    </p>
+                </div>
+            </div>
+            <div class='sliderItem'>
+                <div class='title'>Generic Action 3</div>
+                <div class='icon'>
+                    <i class="fa fa-code" aria-hidden="true"></i>
+                </div>
+                <div class='contentText'>
+                    <p>
+                        Salvia messenger bag narwhal four loko tumeric roof party. Stumptown meditation tumeric, subway tile photo booth flexitarian kinfolk YOLO banjo jianbing iPhone. Vape 3 wolf moon wayfarers, la croix waistcoat helvetica VHS artisan next level pop-up.
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class='buttons'>
+            <div class='controls'>
+                <a href="#" class='prevButton'><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+                <a href="#" class='nextButton'><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            </div>
+            <div class='pagination'>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+function nextSlide() {
+    var active = $(".sliderItem.active"),
+        activeIndex = $(active).index(),
+        totalIndex = $(".sliderItem").length,
+        next_item = 0
+
+    if (activeIndex + 1 > totalIndex - 1) {
+        next_item = 0
+    } else {
+        next_item = activeIndex + 1
+    }
+
+    $(active).removeClass("active")
+    $(".sliderItem").eq(next_item).addClass("active");
+
+    var activeNow = $(".sliderItem.active"),
+        offsetContent = $(activeNow).parents(".content").offset().left,
+        offsetActive = $(activeNow).offset().left,
+        totalOffset = offsetActive - offsetContent
+
+    $(activeNow).parents(".content").css({
+        "transform": "translate( -" + totalOffset + "px, 0px)"
+    })
+    $(activeNow).parents(".slider").find(".dot.active").removeClass("active");
+    $(activeNow).parents(".slider").find(".dot").eq($(activeNow).index()).addClass("active");
+
+
+
+}
+
+function prevSlide() {
+    var active = $(".sliderItem.active"),
+        activeIndex = $(active).index(),
+        totalIndex = $(".sliderItem").length,
+        next_item = 0
+
+    if (activeIndex - 1 < 0) {
+        next_item = totalIndex - 1
+    } else {
+        next_item = activeIndex - 1
+    }
+
+    $(active).removeClass("active")
+    $(".sliderItem").eq(next_item).addClass("active");
+
+    var activeNow = $(".sliderItem.active"),
+        offsetContent = $(activeNow).parents(".content").offset().left,
+        offsetActive = $(activeNow).offset().left,
+        totalOffset = offsetActive - offsetContent
+
+    $(activeNow).parents(".content").css({
+        "transform": "translate( -" + totalOffset + "px, 0px)"
+    })
+    $(activeNow).parents(".slider").find(".dot.active").removeClass("active");
+    $(activeNow).parents(".slider").find(".dot").eq($(activeNow).index()).addClass("active")
+
+
+}
+
+$(".slider").each(function() {
+    var totalWidth = 0,
+        $this = $(this)
+
+    $(this).find(".content").children().each(function() {
+        totalWidth += $(this).outerWidth();
+    });
+
+    var firstSlider = $(this).find(".content").find(".sliderItem").first();
+
+    if (!$(firstSlider).hasClass("active")) {
+        $(firstSlider).addClass("active");
+    }
+
+    $(this).find(".content").width(totalWidth);
+
+    var totalSliderItems = $(this).find(".content").find(".sliderItem").length
+
+    for (i = 0; i < totalSliderItems; i++) {
+        $($this).find(".buttons").find(".pagination").append('<div class="dot"></div>')
+    }
+
+    var activeIndex = $($this).find(".content").find(".sliderItem.active").index()
+
+    $($this).find(".dot").eq(activeIndex).addClass("active")
+
+});
+
+$(".nextButton").on('click', function(e) {
+    e.preventDefault();
+    nextSlide();
+});
+
+$(".prevButton").on('click', function(e) {
+    e.preventDefault();
+    prevSlide();
+});
+
+$(".dot").on('click', function() {
+    var setEqIndex = $(this).index();
+
+    $(this).parents(".slider").find(".content").find(".sliderItem.active").removeClass("active");
+    $(this).parents(".slider").find(".content").find(".sliderItem").eq(setEqIndex).addClass("active");
+    $(this).parents(".pagination").find(".dot.active").removeClass("active");
+    Path2D
+    $(this).addClass("active");
+
+    var activeNow = $(this).parents(".slider").find(".content").find(".sliderItem").eq(setEqIndex),
+        offsetContent = $(activeNow).parents(".content").offset().left,
+        offsetActive = $(activeNow).offset().left,
+        totalOffset = offsetActive - offsetContent
+
+    $(activeNow).parents(".content").css({
+        "transform": "translate( -" + totalOffset + "px, 0px)"
+    })
+
+});
+</script>
+
+</body>
+</html>
