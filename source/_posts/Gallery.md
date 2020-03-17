@@ -1,12 +1,16 @@
 ---
 title: 图库
-date:
-layout: gallery
+date: 2019-01-01 00:00:04
 categories:
  - 黑板
 tags:
  - 图库
+thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 ---
+
+> 各种图片。
+
+<!--more-->
 
 <div class="justified-gallery">
 
