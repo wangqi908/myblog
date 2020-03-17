@@ -6,8 +6,6 @@ layout: about
 toc: true
 ---
 
-## 我
-
 &emsp;**猫梨 / ねこり / nek0ri**
 
 &emsp;一枚普通的'00s大学生
