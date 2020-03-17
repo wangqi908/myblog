@@ -101,7 +101,7 @@ ___
 >
 > rEFInd的编写者，一位热心的大神，曾经发邮件向他请教过该软件的问题
 
-> {% img https://www.linuxtoday.com/img/linuxtd_logo.png %}
+> {% img https://pic.imgdb.cn/item/5e70923be83c3a1e3a182c64.png %}
 >
 > **Linux Today** [https://www.linuxtoday.com/](https://www.linuxtoday.com/)
 >
