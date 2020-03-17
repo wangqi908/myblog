@@ -1,7 +1,7 @@
 ---
 title: 关于
 date: 2020-03-15 22:00:00
-thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
+thumbnail: https://pic.imgdb.cn/item/5e708310e83c3a1e3a0a0cd0.jpg
 layout: about
 toc: true
 ---
