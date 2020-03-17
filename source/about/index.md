@@ -1,13 +1,10 @@
 ---
 title: 关于
-date: 2020-03-01 22:00:00
+date: 2020-03-15 22:00:00
 thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 layout: about
 toc: true
 ---
-
-	很高兴你会打开这一页面ฅ'ω'ฅ
-    页面时间为最近更新时间～
 
 ## 我
 
@@ -21,13 +18,11 @@ toc: true
 
 &emsp;自行车、音乐、HiFi、动漫、电子产品等爱好者
 
-&emsp;游戏陪伴了我大多数的童年，但现在打不动了
-
 &emsp;知道自己能力有限，但想做很多十分有挑战的事
 
 &emsp;想认识更多有趣的人！
 
-<br/>
+</br>
 
 ### Language
 
@@ -43,23 +38,31 @@ toc: true
 
 * &emsp;希望一天有48小时
 
-<br/>
+</br>
 
-## 关于本站
+## 猫梨の部屋
 
 &emsp;本站创建于2015年
 
-&emsp;在创建后的第4年，本站告别了WordPress
+&emsp;“部屋”即小屋的意思
 
-&emsp;转战Netlify与Hexo
+&emsp;希望本站就像一个小屋一样
 
-<br/>
+&emsp;记录日常的点点滴滴就好>w<
+
+</br>
 
 ### 域名历史
 
-&emsp;nekori.info => nek0ri.com => **nek0ri.de**
+    2015-2017 mattlee01.wordpress.com
+
+    2017-2018 nekori.info
+
+    2019-NOW  nek0ri.de
+           &  nek0ri.com
+
   
-<br/>
+</br>
 
 ## 联系方式
 
@@ -67,7 +70,7 @@ toc: true
 >
 > 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
 >
-> QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`（东八区晚间在线）
+> QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
 
 > Telegram链接
 >
