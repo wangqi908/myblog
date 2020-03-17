@@ -12,6 +12,10 @@ thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 
 <!--more-->
 
+持续更新中...
+
+使用PC版访问效果更佳。
+
 <div class="justified-gallery">
 
 ![PIXIV ID 79695997](https://pic.imgdb.cn/item/5e6b57f5e83c3a1e3a96bdbd.png)
