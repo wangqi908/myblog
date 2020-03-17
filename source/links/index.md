@@ -103,7 +103,7 @@ ___
 
 > {% img https://pic.imgdb.cn/item/5e70923be83c3a1e3a182c64.png %}
 >
-> **Linux Today** [https://www.linuxtoday.com/](https://www.linuxtoday.com/)
+> **Linux Today** [www.linuxtoday.com](https://www.linuxtoday.com/)
 >
 > eWeek旗下的Linux新闻网站
 
