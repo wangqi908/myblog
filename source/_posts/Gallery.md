@@ -25,4 +25,5 @@ thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 ![Twitter hou 1](https://pic.imgdb.cn/item/5e5fd63a98271cb2b83d8492.jpg)
 ![「利兹与青鸟」Artwork 1](https://pic.imgdb.cn/item/5e5896e66127cc07131b03a1.png)
 ![「少终」Artwork 2](https://pic.imgdb.cn/item/5e5782596127cc0713facc6a.jpg)
+![「観音寺」 - あらゐけいいち](https://pic.imgdb.cn/item/5e7437a2e83c3a1e3a0d6cd8.jpg)
 </div>
