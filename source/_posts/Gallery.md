@@ -26,4 +26,6 @@ thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 ![「利兹与青鸟」Artwork 1](https://pic.imgdb.cn/item/5e5896e66127cc07131b03a1.png)
 ![「少终」Artwork 2](https://pic.imgdb.cn/item/5e5782596127cc0713facc6a.jpg)
 ![「観音寺」 - あらゐけいいち](https://pic.imgdb.cn/item/5e7437a2e83c3a1e3a0d6cd8.jpg)
+![「登校」PIXIV 雪町](https://pic.imgdb.cn/item/5e7087c4e83c3a1e3a0dc579.png)
+![「秘密の秋園」PIXIV スマッシャーT_T](https://pic.imgdb.cn/item/5e708310e83c3a1e3a0a0cd0.jpg)
 </div>
