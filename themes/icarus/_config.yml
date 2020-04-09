@@ -261,14 +261,14 @@ widgets:
         # Feedburner ID
         feedburner_id: 'nek0ri/lrIL'
     # Google AdSense unit configurations
-    -
+    #-
         # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
+        #position: right
+        #type: adsense
         # AdSense client ID
-        client_id: 'ca-pub-6623090912480321'
+        #client_id: 'ca-pub-6623090912480321'
         # AdSense AD unit ID
-        slot_id: ''
+        #slot_id: ''
 # Plugin configurations
 plugins:
     # Enable page startup animations
@@ -308,10 +308,10 @@ plugins:
     katex: false
     # Enable the MathJax math typesetting support
     # https://www.mathjax.org/
-    mathjax: false
+    mathjax: true
     # Enable the Outdated Browser plugin
     # http://outdatedbrowser.com/
-    outdated_browser: false
+    outdated_browser: true
     # Show a progress bar at top of the page on page loading
     progressbar: true
 # CDN provider settings
@@ -320,6 +320,6 @@ providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
     cdn: jsdelivr
     # Name or URL template of the webfont CDN provider
-    fontcdn: google
+    fontcdn: 'https://fonts.lug.ustc.edu.cn/${type}?family=${fontname}'
     # Name or URL of the fontawesome icon font CDN provider
-    iconcdn: fontawesome
+    iconcdn: 'https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css'
