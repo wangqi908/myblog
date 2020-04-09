@@ -7,7 +7,7 @@ logo: https://pic.imgdb.cn/item/5e3d0e712fb38b8c3c048512.jpg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /images/favicon.png
+    favicon: /img/favicon.png
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
