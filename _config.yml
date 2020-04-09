@@ -97,7 +97,7 @@ ignore:
 plugins:
     hexo-generator-feed
 ## Themes: https://hexo.io/themes/
-theme: icarus3
+theme: icarus
 # suka is good
 
 # Deployment
