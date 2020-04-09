@@ -75,7 +75,7 @@ navbar:
     menu:
         主页: /
         归档: /archives
-        分类: /categories
+        #分类: /categories
         黑板: /categories/黑板
         链接: /links
         关于: /about
@@ -158,9 +158,9 @@ comment:
         #qrcode: ''
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share:
+#share:
     # Share plugin name
-    type: sharejs
+    #type: sharejs
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:

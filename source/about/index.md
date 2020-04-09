@@ -1,25 +1,21 @@
 ---
 title: 关于
-date: 2020-03-15 22:00:00
-thumbnail: https://pic.imgdb.cn/item/5e708310e83c3a1e3a0a0cd0.jpg
-layout: about
-toc: true
+date: 2020-04-09 21:00:00
+thumbnail: https://pic.imgdb.cn/item/5e8f178a504f4bcb047239e7.jpg
 widgets: null
 ---
 
-&emsp;**猫梨 / ねこり / nek0ri**
+> 「闪灵」 PIXIV ID 80037133 鬼針草
 
-&emsp;一枚普通的'00s大学生
+## 猫梨
 
-&emsp;猫控
+一枚普通的'00s大学生。是猫控，曾是OIer。
 
-&emsp;曾是OIer、VEXer
+目前专业为自动化，之后将转为计算机科学。
 
-&emsp;自行车、音乐、HiFi、动漫、电子产品等爱好者
+希望认识更多有趣的人！
 
-&emsp;知道自己能力有限，但想做很多十分有挑战的事
-
-&emsp;想认识更多有趣的人！
+*至于为什么叫猫梨嘛...你猜（逃）*
 
 </br>
 
@@ -27,27 +23,39 @@ widgets: null
 
 &emsp;中文🇨🇳 English🇬🇧 Deutsch🇩🇪 日本語🇯🇵
 
-### 学习
+</br>
 
-* &emsp;准备TestDaF中
+### 爱好
 
-* &emsp;精通C、C++、Python的bug编写
++ 音乐🎵：`Linkin Park`, `Aimer`, `古川本舗`, `Eric Clapton`, `Keane`, (J)POP, ROCK, CLASSIC, BLUES
 
-* &emsp;想研究大型机
++ 运动🚲：`曾经的公路自行车业余选手`, `被网球打`, `不会篮球`
 
-* &emsp;希望一天有48小时
++ 游戏🎮：`CS`, `COD`, `osu!`, `AVG`, 想整ns但没空玩orz
+
++ 电视📺：`冰菓`, `编舟记`, `非自然死亡`, `吹响吧！上低音号`, `AngelBeats!`, `Psycho-Pass`, `supernatural`
+
+以上仅为典型，实际远远不止于此。
 
 </br>
 
 ## 猫梨の部屋
 
-&emsp;本站创建于2015年
+本站创建于2015年。
 
-&emsp;“部屋”即小屋的意思
+</br>
 
-&emsp;希望本站就像一个小屋一样
+### 为何建站
 
-&emsp;记录日常的点点滴滴就好>w<
+搭建博客的初衷是以一种小众的方式来分享信息，但随着时间推移我越发意识到搭建私人博客的必要性。
+
+我不喜欢被“群体无意识”现象所左右言论的大环境。另外，我理解一些平台审核的制度，但这不应成为资本作恶后维护声誉的工具。
+
+那么此时，博客就是一片净土。
+
+在互联网中能够有一个自由空间，记录自己的生活轨迹，自己的心得能够使他人产生共鸣，分享的知识能对他人有所裨益...那就足够了。
+
+「部屋」译成中文就是“屋子”，希望它能够像一间林间小屋一样，时刻敞开。
 
 </br>
 
@@ -58,27 +66,17 @@ widgets: null
     2017-2018 nekori.info
 
     2019-NOW  nek0ri.de
-           &  nek0ri.com
 
-  
 </br>
 
 ## 联系方式
 
-> 更多社交平台见桌面端侧栏或移动端底部的档案Widget
->
-> 电子邮件：[nek0ri@outlook.com](nek0ri@outlook.com)
->
-> QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
+更多社交平台见桌面端侧栏或移动端底部的档案Widget
 
-> Telegram链接
->
-> [频道](https://t.me/Radiori) [讨论群](https://t.me/nek0ri_ne)
+[Email](nek0ri@outlook.com) · [TG频道](https://t.me/Radiori) · [TG讨论群](https://t.me/nek0ri_ne)
 
-___
+QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
 
-## 事项
+</br>
 
-**1. 本站为静态站点，除发表评论外不收集您的信息。**
-
-**2. 2020/2/26前Valine评论系统存在一些问题，导致您在评论后可能会收到类似于“重置密码”的错误邮件，现将机制暂时进行修改，您的评论得到回复后将不通过邮件提醒。由于个人web开发水平有限，暂时无法自行解决，给您带来不便敬请谅解。（土下座）**
+> 本站为静态站点，除发表评论外不收集您的信息。
