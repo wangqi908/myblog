@@ -143,7 +143,7 @@ widgets:
         location: Shanghai, China
         # Path or URL to the avatar to be shown in the profile widget
         # avatar: https://pic.imgdb.cn/item/5e4e81ba48b86553eef43f45.jpg
-        avatar: https://pic.imgdb.cn/item/5e8d19f3504f4bcb04b888ed.jpg
+        avatar: https://pic.imgdb.cn/item/5e8ea4a6504f4bcb04fba03c.jpg
         # Email address for the Gravatar to be shown in the profile widget
         gravatar: 
         # Whether to show avatar image rounded or square
