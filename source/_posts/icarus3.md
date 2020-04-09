@@ -8,12 +8,14 @@ tags:
  - Icarus
  - 文档
 variant: cyberpunk
-thumbnail: https://pic.imgdb.cn/item/5e8f3025504f4bcb048b5232.jpg
+thumbnail: https://pic.imgdb.cn/item/5e8f356e504f4bcb0490a3c8.jpg
 ---
 
 > 赛 伯 朋 克 ！
 
 <!--more-->
+
+图 ／ トミヤ
 
 表示站点驾驭不了这一风格，所以就设置了仅本页面有效，各位看看效果就好2333
 
