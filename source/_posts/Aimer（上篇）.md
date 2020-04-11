@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e3d09ad2fb38b8c3c04101c.jpg
 ---
 
-（题图：Aimer - 「After Dark」专辑cover）
+题图：Aimer - 「After Dark」专辑cover
 
 <!--more-->
 

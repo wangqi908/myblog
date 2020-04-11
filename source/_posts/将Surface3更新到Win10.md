@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e5b7ce46127cc0713735118.jpg
 ---
 
-> 让旧款Surface焕发第二春（确实）
+让旧款Surface焕发第二春（确实）
 
 <!--more-->
 

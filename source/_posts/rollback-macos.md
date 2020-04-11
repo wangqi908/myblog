@@ -9,7 +9,7 @@ toc: true
 thumbnail: https://pic.imgdb.cn/item/5e6084ea98271cb2b86eeba7.jpg
 ---
 
-> 脑阔痛。
+脑阔痛。
 
 <!--more-->
 

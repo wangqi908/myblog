@@ -10,7 +10,7 @@ toc: true
 thumbnail: https://pic.imgdb.cn/item/5e5fd63a98271cb2b83d8492.jpg
 ---
 
-> 先打好地基。
+先打好地基。
 
 <!--more-->
 

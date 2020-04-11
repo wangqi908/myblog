@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e5cd92e98271cb2b8b42cd6.jpg
 ---
 
-> Geh deinen Weg.
+Geh deinen Weg.
 
 <!--more-->
 

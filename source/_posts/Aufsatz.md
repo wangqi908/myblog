@@ -9,7 +9,7 @@ toc: true
 thumbnail: https://pic.imgdb.cn/item/5e6b57f5e83c3a1e3a96bdbd.png
 ---
 
-> 其实这是作业（小声）
+其实这是作业（小声）
 
 <!--more-->
 

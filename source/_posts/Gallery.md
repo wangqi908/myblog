@@ -8,7 +8,7 @@ tags:
 thumbnail: https://pic.imgdb.cn/item/5e3d08502fb38b8c3c03e96a.jpg
 ---
 
-> 各种图片。
+各种图片。
 
 <!--more-->
 

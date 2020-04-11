@@ -8,9 +8,9 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e3d05a02fb38b8c3c03a59c.jpg
 ---
 
-	终于建站完成了qwq
-	
-	（题图的确是「日常」2333）
+终于建站完成了qwq
+
+（题图的确是「日常」2333）
 	
 <!--more-->
 

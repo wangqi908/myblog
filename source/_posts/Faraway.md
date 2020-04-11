@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e4006d32fb38b8c3c56d32c.jpg
 ---
 
-> 路漫漫其修远兮。
+路漫漫其修远兮。
 
 <!--more-->
 

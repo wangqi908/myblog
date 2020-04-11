@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e5603216127cc0713c9defc.jpg
 ---
 
-> 图是我画的哦！（虽然只是临摹orz）
+图是我画的哦！（虽然只是临摹orz）
 
 <!--more-->
 

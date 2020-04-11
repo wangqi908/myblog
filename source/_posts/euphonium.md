@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e5774d86127cc0713f89f98.jpg
 ---
 
-> 适逢最近京吹剧场版的上映，来聊聊京阿尼作品相关。
+适逢最近京吹剧场版的上映，来聊聊京阿尼作品相关。
 
 <!--more-->
 

@@ -9,10 +9,10 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e3d0a6d2fb38b8c3c042128.jpg
 ---
 
->如果说烧耳机是个坑，那么烧自行车就是个惊天巨坑。（逃）
->
-><!--more-->
->
+如果说烧耳机是个坑，那么烧自行车就是个惊天巨坑。（逃）
+
+<!--more-->
+
 >本文会很杂，请见谅（鞠躬）
 
 自从购入了如今的爱车——Giant Propel Advanced SL 2之后，就几乎没有去过任何自行车店，也逐渐退坑，专心投入于骑行之中。

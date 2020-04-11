@@ -8,7 +8,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e3d0d152fb38b8c3c0461c0.jpg
 ---
 
-（题图：上海场的Live中，一位小姐姐自发送给观众的卡片）
+题图：上海场的Live中，一位小姐姐自发送给观众的卡片
 
 <!--more-->
 

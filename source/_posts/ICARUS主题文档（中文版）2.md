@@ -11,10 +11,10 @@ toc: true
 thumbnail: https://pic.imgdb.cn/item/5e43f5af2fb38b8c3cd9ff06.jpg
 ---
 
-> 原文来自[PPOffice](https://github.com/ppoffice)的[ICARUS主题文档](https://blog.zhangruipeng.me/hexo-theme-icarus/categories/)，由[猫梨（nek0ri）](https://nek0ri.de)进行英译中的翻译，本文档翻译遵循[MIT](https://opensource.org/licenses/MIT)协议。
->
-><!--more-->
->
+原文来自[PPOffice](https://github.com/ppoffice)的[ICARUS主题文档](https://blog.zhangruipeng.me/hexo-theme-icarus/categories/)，由[猫梨（nek0ri）](https://nek0ri.de)进行英译中的翻译，本文档翻译遵循[MIT](https://opensource.org/licenses/MIT)协议。
+
+<!--more-->
+
 > 译者水平有限，另时间较为仓促，若其中存在错误，期待您的指正！
 >
 > 我的个人网页：[nek0ri.de](https://nek0ri.de)

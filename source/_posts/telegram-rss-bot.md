@@ -10,7 +10,7 @@ categories:
 thumbnail: https://pic.imgdb.cn/item/5e63b3f498271cb2b8f82ad6.jpg
 ---
 
-> 从零开始的复读机
+从零开始的复读机
 
 <!--more-->
 

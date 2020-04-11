@@ -10,7 +10,7 @@ toc: true
 thumbnail: https://pic.imgdb.cn/item/5e5909606127cc07132b7859.jpg
 ---
 
-> 好用是其次，主要是好看（逃）
+好用是其次，主要是好看（逃）
 
 <!--more-->
 
