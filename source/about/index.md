@@ -3,7 +3,7 @@ title: 关于
 date: 2020-04-09 21:00:00
 thumbnail: https://pic.imgdb.cn/item/5e8f178a504f4bcb047239e7.jpg
 widgets: null
-comment: null
+comment: false
 ---
 
 > 「闪灵」 PIXIV ID 80037133 鬼針草
