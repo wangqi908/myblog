@@ -74,7 +74,7 @@ comment: false
 
 更多社交平台见桌面端侧栏或移动端底部的档案Widget
 
-[Email](nek0ri@outlook.com) · [TG频道](https://t.me/Radiori) · [TG讨论群](https://t.me/nek0ri_ne)
+[Email](mattlee999@gmail.com) · [TG频道](https://t.me/Radiori) · [TG讨论群](https://t.me/nek0ri_ne)
 
 QQ：`echo "MTM1NDg3NDUxMAo=" | base64 -D`
 
