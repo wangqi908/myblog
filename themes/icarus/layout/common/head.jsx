@@ -30,7 +30,7 @@ function getPageTitle(page, siteTitle, helper) {
 module.exports = class extends Component {
     render() {
         const { env, site, config, helper, page } = this.props;
-        const { url_for, cdn, iconcdn, is_post } = helper;
+        const { url_for, cdn, fontcdn, iconcdn, is_post } = helper;
         const {
             url,
             meta_generator = true,
@@ -43,12 +43,16 @@ module.exports = class extends Component {
             meta = [],
             open_graph = {},
             structured_data = {},
-            canonical_url,
+            canonical_url = page.permalink,
             rss,
             favicon
         } = head;
 
         const language = page.lang || page.language || config.language;
+        const fontCssUrl = {
+            default: fontcdn('Ubuntu:wght@400;600&family=Source+Code+Pro', 'css2'),
+            cyberpunk: fontcdn('Oxanium:wght@300;400;600&family=Roboto+Mono', 'css2')
+        };
 
         let hlTheme, images;
         if (highlight && highlight.enable === false) {
@@ -85,14 +89,16 @@ module.exports = class extends Component {
         }
 
         let openGraphImages = images;
-        if ((Array.isArray(open_graph.image) && open_graph.image.length > 0) || typeof open_graph.image === 'string') {
+        if ((typeof open_graph === 'object' && open_graph !== null)
+            && ((Array.isArray(open_graph.image) && open_graph.image.length > 0) || typeof open_graph.image === 'string')) {
             openGraphImages = open_graph.image;
         } else if ((Array.isArray(page.photos) && page.photos.length > 0) || typeof page.photos === 'string') {
             openGraphImages = page.photos;
         }
 
         let structuredImages = images;
-        if ((Array.isArray(structured_data.image) && structured_data.image.length > 0) || typeof structured_data.image === 'string') {
+        if ((typeof structured_data === 'object' && structured_data !== null)
+            && ((Array.isArray(structured_data.image) && structured_data.image.length > 0) || typeof structured_data.image === 'string')) {
             structuredImages = structured_data.image;
         } else if ((Array.isArray(page.photos) && page.photos.length > 0) || typeof page.photos === 'string') {
             structuredImages = page.photos;
@@ -102,13 +108,11 @@ module.exports = class extends Component {
             <meta charset="utf-8" />
             {meta_generator ? <meta name="generator" content={`Hexo ${env.version}`} /> : null}
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-            <MetaTags meta={meta} />
-
-            <script data-ad-client="ca-pub-6623090912480321" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            {meta && meta.length ? <MetaTags meta={meta} /> : null}
 
             <title>{getPageTitle(page, config.title, helper)}</title>
 
-            {typeof open_graph === 'object' ? <OpenGraph
+            {typeof open_graph === 'object' && open_graph !== null ? <OpenGraph
                 type={open_graph.type || (is_post(page) ? 'article' : 'website')}
                 title={open_graph.title || page.title || config.title}
                 date={page.date}
@@ -116,7 +120,7 @@ module.exports = class extends Component {
                 author={open_graph.author || config.author}
                 description={open_graph.description || page.description || page.excerpt || page.content || config.description}
                 keywords={page.keywords || (page.tags && page.tags.length ? page.tags : undefined) || config.keywords}
-                url={open_graph.url || url}
+                url={open_graph.url || page.permalink || url}
                 images={openGraphImages}
                 siteName={open_graph.site_name || config.title}
                 language={language}
@@ -127,7 +131,7 @@ module.exports = class extends Component {
                 facebookAdmins={open_graph.fb_admins}
                 facebookAppId={open_graph.fb_app_id} /> : null}
 
-            {typeof structured_data === 'object' ? <StructuredData
+            {typeof structured_data === 'object' && structured_data !== null ? <StructuredData
                 title={structured_data.title || config.title}
                 description={structured_data.description || page.description || page.excerpt || page.content || config.description}
                 url={structured_data.url || page.permalink || url}
@@ -141,6 +145,7 @@ module.exports = class extends Component {
             {favicon ? <link rel="icon" href={url_for(favicon)} /> : null}
             <link rel="stylesheet" href={iconcdn()} />
             {hlTheme ? <link rel="stylesheet" href={cdn('highlight.js', '9.12.0', 'styles/' + hlTheme + '.css')} /> : null}
+            <link rel="stylesheet" href={fontCssUrl[variant]} />
             <link rel="stylesheet" href={url_for('/css/' + variant + '.css')} />
             <Plugins site={site} config={config} helper={helper} page={page} head={true} />
 

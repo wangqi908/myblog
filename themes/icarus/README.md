@@ -4,7 +4,7 @@
 <br>
 <a href="https://ppoffice.github.io/hexo-theme-icarus/">Preview</a> |
 <a href="https://ppoffice.github.io/hexo-theme-icarus/categories/">Documentation</a> |
-<a href="https://github.com/ppoffice/hexo-theme-icarus/archive/master.zip">Download</a>
+<a href="https://gitter.im/hexo-theme-icarus/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">Chat on Gitter</a>
 <br>
 </p>
 
@@ -43,7 +43,7 @@ blog feature-rich and powerful.
     <th><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/">Search</a></th>
     <th><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/">Share</a></th>
     <th><a href="https://ppoffice.github.io/hexo-theme-icarus/categories/Widgets/">Widgets</a></th>
-    <th><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/categories/Plugins/General/">Other Plugins</a></th>
+    <th><a href="https://blog.zhangruipeng.me/hexo-theme-icarus/categories/Plugins/">Other Plugins</a></th>
   </tr>
   <tr>
     <td>Changyan</td>
