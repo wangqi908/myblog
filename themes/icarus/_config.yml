@@ -1,5 +1,5 @@
 # Version of the configuration file
-version: 3.0.0
+version: 3.1.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
@@ -183,9 +183,9 @@ widgets:
         # Author name
         author: nek0ri
         # Author title
-        author_title: 我们能做得更好
+        author_title: 
         # Author's current location
-        location: Deutschland
+        location: Shanghai ↔ Deutschland
         # URL or path to the avatar image
         avatar: https://pic.imgdb.cn/item/5e8ea4a6504f4bcb04fba03c.jpg
         # Whether show the rounded avatar image
