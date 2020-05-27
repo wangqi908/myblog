@@ -12,7 +12,7 @@ comment: false
 
 一枚普通的'00s大学生。是猫控，曾是OIer。
 
-目前专业为自动化，之后将转为计算机科学。
+目前专业为Automatisierung。
 
 希望认识更多有趣的人！
 
