@@ -105,6 +105,14 @@ layout: links
 
 </br>
 
+>{% img https://www.gravatar.com/avatar/1269adc0efdb4529b560b4faca2b6d73?s=400 80 80 %}
+>
+>**芝士部落格** [www.vensing.com](https://www.vensing.com)
+>
+>有梦想，也有忧伤和理想
+
+</br>
+
 >*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
