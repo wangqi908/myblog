@@ -89,6 +89,14 @@ layout: links
 
 </br>
 
+>{% img https://i.loli.net/2020/03/08/VRT2zfWZiLrUJPX.jpg 80 80 %}
+>
+>**M E S** [rain.moimo.me](https://rain.moimo.me)
+>
+>moi的一般通过小站
+
+</br>
+
 >*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
