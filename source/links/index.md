@@ -97,6 +97,14 @@ layout: links
 
 </br>
 
+>{% img https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg 80 80 %}
+>
+>**Raptazure** [raptazure.github.io](https://raptazure.github.io)
+>
+>心随自然
+
+</br>
+
 >*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
