@@ -113,6 +113,14 @@ layout: links
 
 </br>
 
+>{% img https://cwksc.github.io/assets/image/author_photo/CWKSC_photo.jpg 80 80 %}
+>
+>**CWKSC** [cwksc.github.io](https://cwksc.github.io)
+>
+>主要是寫技術文章的，有時候是日常、吐槽
+
+</br>
+
 >*碎月小屋* [www.suiyuebaobao.com](https://www.suiyuebaobao.com)
 >
 >无论你选择做什么，追求完美的程度都决定你成就的高度！
