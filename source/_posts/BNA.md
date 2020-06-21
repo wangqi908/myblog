@@ -2,8 +2,7 @@
 title: 「BNA」：打破桎梏
 date: 2020-04-10 20:54:38
 tags:
- - BNA
- - 扳机社
+ - 动漫
 categories:
  - ACG
 thumbnail: https://pic.imgdb.cn/item/5e91a7c3504f4bcb04bc85d9.jpg
