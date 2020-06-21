@@ -4,8 +4,6 @@ const OpenGraph = require('hexo-component-inferno/lib/view/misc/open_graph');
 const StructuredData = require('hexo-component-inferno/lib/view/misc/structured_data');
 const Plugins = require('./plugins');
 
-<script data-ad-client="ca-pub-6623090912480321" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 function getPageTitle(page, siteTitle, helper) {
     let title = page.title;
 
@@ -107,6 +105,8 @@ module.exports = class extends Component {
         }
 
         return <head>
+            <script data-ad-client="ca-pub-6623090912480321" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
             <meta charset="utf-8" />
             {meta_generator ? <meta name="generator" content={`Hexo ${env.version}`} /> : null}
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
